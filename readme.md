@@ -66,4 +66,3 @@ This project demonstrates the end-to-end process of data analytics, from data co
 ## Acknowledgments
 - ESPN Cricinfo for providing the data.
 - Python and Power BI communities for their support and resources.
-```
