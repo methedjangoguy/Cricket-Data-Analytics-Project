@@ -1,0 +1,700 @@
+match,battingTeam,battingPos,batsmanName,batsmanNameUrl,dismissal,runs,balls,4s,6s,SR
+Pakistan Vs England,Pakistan,1,Mohammad Rizwan †,https://www.espncricinfo.com/cricketers/mohammad-rizwan-323389,b Curran,15,14,0,1,107.14
+Pakistan Vs England,Pakistan,2,Babar Azam (c),https://www.espncricinfo.com/cricketers/babar-azam-348144,c & b Rashid,32,28,2,0,114.28
+Pakistan Vs England,Pakistan,3,Mohammad Haris,https://www.espncricinfo.com/cricketers/mohammad-haris-1205559,c Stokes b Rashid,8,12,1,0,66.66
+Pakistan Vs England,Pakistan,4,Shan Masood,https://www.espncricinfo.com/cricketers/shan-masood-233901,c Livingstone b Curran,38,28,2,1,135.71
+Pakistan Vs England,Pakistan,5,Iftikhar Ahmed,https://www.espncricinfo.com/cricketers/iftikhar-ahmed-480603,c †Buttler b Stokes,0,6,0,0,0.00
+Pakistan Vs England,Pakistan,6,Shadab Khan,https://www.espncricinfo.com/cricketers/shadab-khan-922943,c Woakes b Jordan,20,14,2,0,142.85
+Pakistan Vs England,Pakistan,7,Mohammad Nawaz,https://www.espncricinfo.com/cricketers/mohammad-nawaz-348148,c Livingstone b Curran,5,7,0,0,71.42
+Pakistan Vs England,Pakistan,8,Mohammad Wasim,https://www.espncricinfo.com/cricketers/mohammad-wasim-1185538,c Livingstone b Jordan,4,8,0,0,50.00
+Pakistan Vs England,Pakistan,9,Shaheen Shah Afridi,https://www.espncricinfo.com/cricketers/shaheen-shah-afridi-1072470,not out,5,3,1,0,166.66
+Pakistan Vs England,Pakistan,10,Haris Rauf,https://www.espncricinfo.com/cricketers/haris-rauf-1161606,not out,1,1,0,0,100.00
+Pakistan Vs England,England,1,Jos Buttler (c)†,https://www.espncricinfo.com/cricketers/jos-buttler-308967,c †Mohammad Rizwan b Haris Rauf,26,17,3,1,152.94
+Pakistan Vs England,England,2,Alex Hales,https://www.espncricinfo.com/cricketers/alex-hales-249866,b Shaheen Shah Afridi,1,2,0,0,50.00
+Pakistan Vs England,England,3,Phil Salt,https://www.espncricinfo.com/cricketers/phil-salt-669365,c Iftikhar Ahmed b Haris Rauf,10,9,2,0,111.11
+Pakistan Vs England,England,4,Ben Stokes,https://www.espncricinfo.com/cricketers/ben-stokes-311158,not out,52,49,5,1,106.12
+Pakistan Vs England,England,5,Harry Brook,https://www.espncricinfo.com/cricketers/harry-brook-911707,c Shaheen Shah Afridi b Shadab Khan,20,23,1,0,86.95
+Pakistan Vs England,England,6,Moeen Ali,https://www.espncricinfo.com/cricketers/moeen-ali-8917,b Mohammad Wasim,19,13,3,0,146.15
+Pakistan Vs England,England,7,Liam Livingstone,https://www.espncricinfo.com/cricketers/liam-livingstone-403902,not out,1,1,0,0,100.00
+India Vs England,India,1,KL Rahul,https://www.espncricinfo.com/cricketers/kl-rahul-422108,c †Buttler b Woakes,5,5,1,0,100.00
+India Vs England,India,2,Rohit Sharma (c),https://www.espncricinfo.com/cricketers/rohit-sharma-34102,c Curran b Jordan,27,28,4,0,96.42
+India Vs England,India,3,Virat Kohli,https://www.espncricinfo.com/cricketers/virat-kohli-253802,c Rashid b Jordan,50,40,4,1,125.00
+India Vs England,India,4,Suryakumar Yadav,https://www.espncricinfo.com/cricketers/suryakumar-yadav-446507,c Salt b Rashid,14,10,1,1,140.00
+India Vs England,India,5,Hardik Pandya,https://www.espncricinfo.com/cricketers/hardik-pandya-625371,hit wicket b Jordan,63,33,4,5,190.90
+India Vs England,India,6,Rishabh Pant †,https://www.espncricinfo.com/cricketers/rishabh-pant-931581,run out (†Buttler/Jordan),6,4,1,0,150.00
+India Vs England,India,7,Ravichandran Ashwin,https://www.espncricinfo.com/cricketers/ravichandran-ashwin-26421,not out,0,0,0,0,-
+India Vs England,England,1,Jos Buttler (c)†,https://www.espncricinfo.com/cricketers/jos-buttler-308967,not out,80,49,9,3,163.26
+India Vs England,England,2,Alex Hales,https://www.espncricinfo.com/cricketers/alex-hales-249866,not out,86,47,4,7,182.97
+Pakistan Vs New Zealand,Pakistan,1,Finn Allen,https://www.espncricinfo.com/cricketers/finn-allen-959759,lbw b Shaheen Shah Afridi,4,3,1,0,133.33
+Pakistan Vs New Zealand,Pakistan,2,Devon Conway †,https://www.espncricinfo.com/cricketers/devon-conway-379140,run out (Shadab Khan),21,20,3,0,105.00
+Pakistan Vs New Zealand,Pakistan,3,Kane Williamson (c),https://www.espncricinfo.com/cricketers/kane-williamson-277906,b Shaheen Shah Afridi,46,42,1,1,109.52
+Pakistan Vs New Zealand,Pakistan,4,Glenn Phillips,https://www.espncricinfo.com/cricketers/glenn-phillips-823509,c & b Mohammad Nawaz,6,8,1,0,75.00
+Pakistan Vs New Zealand,Pakistan,5,Daryl Mitchell,https://www.espncricinfo.com/cricketers/daryl-mitchell-381743,not out,53,35,3,1,151.42
+Pakistan Vs New Zealand,Pakistan,6,James Neesham,https://www.espncricinfo.com/cricketers/james-neesham-355269,not out,16,12,1,0,133.33
+Pakistan Vs New Zealand,New Zealand,1,Mohammad Rizwan †,https://www.espncricinfo.com/cricketers/mohammad-rizwan-323389,c Phillips b Boult,57,43,5,0,132.55
+Pakistan Vs New Zealand,New Zealand,2,Babar Azam (c),https://www.espncricinfo.com/cricketers/babar-azam-348144,c Mitchell b Boult,53,42,7,0,126.19
+Pakistan Vs New Zealand,New Zealand,3,Mohammad Haris,https://www.espncricinfo.com/cricketers/mohammad-haris-1205559,c Allen b Santner,30,26,2,1,115.38
+Pakistan Vs New Zealand,New Zealand,4,Shan Masood,https://www.espncricinfo.com/cricketers/shan-masood-233901,not out,3,4,0,0,75.00
+Pakistan Vs New Zealand,New Zealand,5,Iftikhar Ahmed,https://www.espncricinfo.com/cricketers/iftikhar-ahmed-480603,not out,0,0,0,0,-
+Zimbabwe Vs India,Zimbabwe,1,KL Rahul,https://www.espncricinfo.com/cricketers/kl-rahul-422108,c Masakadza b Sikandar Raza,51,35,3,3,145.71
+Zimbabwe Vs India,Zimbabwe,2,Rohit Sharma (c),https://www.espncricinfo.com/cricketers/rohit-sharma-34102,c Masakadza b Muzarabani,15,13,2,0,115.38
+Zimbabwe Vs India,Zimbabwe,3,Virat Kohli,https://www.espncricinfo.com/cricketers/virat-kohli-253802,c Burl b Williams,26,25,2,0,104.00
+Zimbabwe Vs India,Zimbabwe,4,Suryakumar Yadav,https://www.espncricinfo.com/cricketers/suryakumar-yadav-446507,not out,61,25,6,4,244.00
+Zimbabwe Vs India,Zimbabwe,5,Rishabh Pant †,https://www.espncricinfo.com/cricketers/rishabh-pant-931581,c Burl b Williams,3,5,0,0,60.00
+Zimbabwe Vs India,Zimbabwe,6,Hardik Pandya,https://www.espncricinfo.com/cricketers/hardik-pandya-625371,c Muzarabani b Ngarava,18,18,2,0,100.00
+Zimbabwe Vs India,Zimbabwe,7,Axar Patel,https://www.espncricinfo.com/cricketers/axar-patel-554691,not out,0,0,0,0,-
+Zimbabwe Vs India,India,1,Wessly Madhevere,https://www.espncricinfo.com/cricketers/wessly-madhevere-938959,c Kohli b Kumar,0,1,0,0,0.00
+Zimbabwe Vs India,India,2,Craig Ervine (c),https://www.espncricinfo.com/cricketers/craig-ervine-55412,c & b Pandya,13,15,2,0,86.66
+Zimbabwe Vs India,India,3,Regis Chakabva †,https://www.espncricinfo.com/cricketers/regis-chakabva-293831,b Arshdeep Singh,0,6,0,0,0.00
+Zimbabwe Vs India,India,4,Sean Williams,https://www.espncricinfo.com/cricketers/sean-williams-55870,c Kumar b Mohammed Shami,11,18,0,1,61.11
+Zimbabwe Vs India,India,5,Sikandar Raza,https://www.espncricinfo.com/cricketers/sikandar-raza-299572,c Yadav b Pandya,34,24,3,0,141.66
+Zimbabwe Vs India,India,6,Tony Munyonga,https://www.espncricinfo.com/cricketers/tony-munyonga-1122853,lbw b Mohammed Shami,5,4,1,0,125.00
+Zimbabwe Vs India,India,7,Ryan Burl,https://www.espncricinfo.com/cricketers/ryan-burl-495964,b Ashwin,35,22,5,1,159.09
+Zimbabwe Vs India,India,8,Wellington Masakadza,https://www.espncricinfo.com/cricketers/wellington-masakadza-571703,c Sharma b Ashwin,1,7,0,0,14.28
+Zimbabwe Vs India,India,9,Richard Ngarava,https://www.espncricinfo.com/cricketers/richard-ngarava-806241,b Ashwin,1,2,0,0,50.00
+Zimbabwe Vs India,India,10,Tendai Chatara,https://www.espncricinfo.com/cricketers/tendai-chatara-425639,c & b Patel,4,4,1,0,100.00
+Zimbabwe Vs India,India,11,Blessing Muzarabani,https://www.espncricinfo.com/cricketers/blessing-muzarabani-827051,not out,0,2,0,0,0.00
+Pakistan Vs Bangladesh,Pakistan,1,Najmul Hossain Shanto,https://www.espncricinfo.com/cricketers/najmul-hossain-shanto-629058,b Iftikhar Ahmed,54,48,7,0,112.50
+Pakistan Vs Bangladesh,Pakistan,2,Litton Das,https://www.espncricinfo.com/cricketers/litton-das-536936,c Shan Masood b Shaheen Shah Afridi,10,8,0,1,125.00
+Pakistan Vs Bangladesh,Pakistan,3,Soumya Sarkar,https://www.espncricinfo.com/cricketers/soumya-sarkar-436677,c Shan Masood b Shadab Khan,20,17,1,1,117.64
+Pakistan Vs Bangladesh,Pakistan,4,Shakib Al Hasan (c),https://www.espncricinfo.com/cricketers/shakib-al-hasan-56143,lbw b Shadab Khan,0,1,0,0,0.00
+Pakistan Vs Bangladesh,Pakistan,5,Afif Hossain,https://www.espncricinfo.com/cricketers/afif-hossain-935995,not out,24,20,3,0,120.00
+Pakistan Vs Bangladesh,Pakistan,6,Mosaddek Hossain,https://www.espncricinfo.com/cricketers/mosaddek-hossain-550133,b Shaheen Shah Afridi,5,11,0,0,45.45
+Pakistan Vs Bangladesh,Pakistan,7,Nurul Hasan †,https://www.espncricinfo.com/cricketers/nurul-hasan-410765,c Mohammad Haris b Shaheen Shah Afridi,0,3,0,0,0.00
+Pakistan Vs Bangladesh,Pakistan,8,Taskin Ahmed,https://www.espncricinfo.com/cricketers/taskin-ahmed-538506,c Babar Azam b Shaheen Shah Afridi,1,5,0,0,20.00
+Pakistan Vs Bangladesh,Pakistan,9,Nasum Ahmed,https://www.espncricinfo.com/cricketers/nasum-ahmed-348049,c Mohammad Wasim b Haris Rauf,7,6,1,0,116.66
+Pakistan Vs Bangladesh,Pakistan,10,Mustafizur Rahman,https://www.espncricinfo.com/cricketers/mustafizur-rahman-330902,not out,0,1,0,0,0.00
+Pakistan Vs Bangladesh,Bangladesh,1,Mohammad Rizwan †,https://www.espncricinfo.com/cricketers/mohammad-rizwan-323389,c Najmul Hossain Shanto b Ebadot Hossain,32,32,2,1,100.00
+Pakistan Vs Bangladesh,Bangladesh,2,Babar Azam (c),https://www.espncricinfo.com/cricketers/babar-azam-348144,c Mustafizur Rahman b Nasum Ahmed,25,33,2,0,75.75
+Pakistan Vs Bangladesh,Bangladesh,3,Mohammad Nawaz,https://www.espncricinfo.com/cricketers/mohammad-nawaz-348148,run out (Litton Das),4,11,0,0,36.36
+Pakistan Vs Bangladesh,Bangladesh,4,Mohammad Haris,https://www.espncricinfo.com/cricketers/mohammad-haris-1205559,c Nasum Ahmed b Shakib Al Hasan,31,18,1,2,172.22
+Pakistan Vs Bangladesh,Bangladesh,5,Shan Masood,https://www.espncricinfo.com/cricketers/shan-masood-233901,not out,24,14,2,0,171.42
+Pakistan Vs Bangladesh,Bangladesh,6,Iftikhar Ahmed,https://www.espncricinfo.com/cricketers/iftikhar-ahmed-480603,c Najmul Hossain Shanto b Mustafizur Rahman,1,3,0,0,33.33
+Pakistan Vs Bangladesh,Bangladesh,7,Shadab Khan,https://www.espncricinfo.com/cricketers/shadab-khan-922943,not out,0,0,0,0,-
+South Africa Vs Netherlands,South Africa,1,Stephan Myburgh,https://www.espncricinfo.com/cricketers/stephan-myburgh-233712,c Rossouw b Markram,37,30,7,0,123.33
+South Africa Vs Netherlands,South Africa,2,Max O'Dowd,https://www.espncricinfo.com/cricketers/max-o-dowd-643197,c Rabada b Maharaj,29,31,1,1,93.54
+South Africa Vs Netherlands,South Africa,3,Tom Cooper,https://www.espncricinfo.com/cricketers/tom-cooper-219885,c †de Kock b Maharaj,35,19,2,2,184.21
+South Africa Vs Netherlands,South Africa,4,Colin Ackermann,https://www.espncricinfo.com/cricketers/colin-ackermann-379774,not out,41,26,3,2,157.69
+South Africa Vs Netherlands,South Africa,5,Bas de Leede,https://www.espncricinfo.com/cricketers/bas-de-leede-1036191,b Nortje,1,7,0,0,14.28
+South Africa Vs Netherlands,South Africa,6,Scott Edwards (c)†,https://www.espncricinfo.com/cricketers/scott-edwards-1127317,not out,12,7,2,0,171.42
+South Africa Vs Netherlands,Netherlands,1,Quinton de Kock †,https://www.espncricinfo.com/cricketers/quinton-de-kock-379143,c †Edwards b Klaassen,13,13,1,1,100.00
+South Africa Vs Netherlands,Netherlands,2,Temba Bavuma (c),https://www.espncricinfo.com/cricketers/temba-bavuma-372116,b van Meekeren,20,20,2,0,100.00
+South Africa Vs Netherlands,Netherlands,3,Rilee Rossouw,https://www.espncricinfo.com/cricketers/rilee-rossouw-318845,c O'Dowd b Glover,25,19,2,0,131.57
+South Africa Vs Netherlands,Netherlands,4,Aiden Markram,https://www.espncricinfo.com/cricketers/aiden-markram-600498,c Myburgh b Klaassen,17,13,2,0,130.76
+South Africa Vs Netherlands,Netherlands,5,David Miller,https://www.espncricinfo.com/cricketers/david-miller-321777,c van der Merwe b Glover,17,17,1,0,100.00
+South Africa Vs Netherlands,Netherlands,6,Heinrich Klaasen,https://www.espncricinfo.com/cricketers/heinrich-klaasen-436757,c van Beek b de Leede,21,18,0,1,116.66
+South Africa Vs Netherlands,Netherlands,7,Wayne Parnell,https://www.espncricinfo.com/cricketers/wayne-parnell-265564,c †Edwards b Glover,0,2,0,0,0.00
+South Africa Vs Netherlands,Netherlands,8,Keshav Maharaj,https://www.espncricinfo.com/cricketers/keshav-maharaj-267724,c O'Dowd b de Leede,13,12,0,1,108.33
+South Africa Vs Netherlands,Netherlands,9,Kagiso Rabada,https://www.espncricinfo.com/cricketers/kagiso-rabada-550215,not out,9,8,0,0,112.50
+South Africa Vs Netherlands,Netherlands,10,Anrich Nortje,https://www.espncricinfo.com/cricketers/anrich-nortje-481979,not out,4,1,1,0,400.00
+Sri Lanka Vs England,Sri Lanka,1,Pathum Nissanka,https://www.espncricinfo.com/cricketers/pathum-nissanka-1028655,c sub (CJ Jordan) b Rashid,67,45,2,5,148.88
+Sri Lanka Vs England,Sri Lanka,2,Kusal Mendis †,https://www.espncricinfo.com/cricketers/kusal-mendis-629074,c Livingstone b Woakes,18,14,1,1,128.57
+Sri Lanka Vs England,Sri Lanka,3,Dhananjaya de Silva,https://www.espncricinfo.com/cricketers/dhananjaya-de-silva-465793,c Stokes b Curran,9,11,0,0,81.81
+Sri Lanka Vs England,Sri Lanka,4,Charith Asalanka,https://www.espncricinfo.com/cricketers/charith-asalanka-784367,c Malan b Stokes,8,9,0,0,88.88
+Sri Lanka Vs England,Sri Lanka,5,Bhanuka Rajapaksa,https://www.espncricinfo.com/cricketers/bhanuka-rajapaksa-342619,c Curran b Wood,22,22,3,0,100.00
+Sri Lanka Vs England,Sri Lanka,6,Dasun Shanaka (c),https://www.espncricinfo.com/cricketers/dasun-shanaka-437316,c †Buttler b Wood,3,8,0,0,37.50
+Sri Lanka Vs England,Sri Lanka,7,Wanindu Hasaranga,https://www.espncricinfo.com/cricketers/wanindu-hasaranga-784379,run out (†Buttler/Wood),9,9,1,0,100.00
+Sri Lanka Vs England,Sri Lanka,8,Chamika Karunaratne,https://www.espncricinfo.com/cricketers/chamika-karunaratne-623695,c Hales b Wood,0,2,0,0,0.00
+Sri Lanka Vs England,Sri Lanka,9,Maheesh Theekshana,https://www.espncricinfo.com/cricketers/maheesh-theekshana-1138316,not out,0,0,0,0,-
+Sri Lanka Vs England,England,1,Jos Buttler (c)†,https://www.espncricinfo.com/cricketers/jos-buttler-308967,c Karunaratne b Hasaranga,28,23,2,1,121.73
+Sri Lanka Vs England,England,2,Alex Hales,https://www.espncricinfo.com/cricketers/alex-hales-249866,c & b Hasaranga,47,30,7,1,156.66
+Sri Lanka Vs England,England,3,Ben Stokes,https://www.espncricinfo.com/cricketers/ben-stokes-311158,not out,42,36,2,0,116.66
+Sri Lanka Vs England,England,4,Harry Brook,https://www.espncricinfo.com/cricketers/harry-brook-911707,c & b de Silva,4,5,0,0,80.00
+Sri Lanka Vs England,England,5,Liam Livingstone,https://www.espncricinfo.com/cricketers/liam-livingstone-403902,c de Silva b Kumara,4,6,0,0,66.66
+Sri Lanka Vs England,England,6,Moeen Ali,https://www.espncricinfo.com/cricketers/moeen-ali-8917,c Shanaka b de Silva,1,5,0,0,20.00
+Sri Lanka Vs England,England,7,Sam Curran,https://www.espncricinfo.com/cricketers/sam-curran-662973,c Rajitha b Kumara,6,11,0,0,54.54
+Sri Lanka Vs England,England,8,Chris Woakes,https://www.espncricinfo.com/cricketers/chris-woakes-247235,not out,5,3,1,0,166.66
+Afghanistan Vs Australia,Afghanistan,1,David Warner,https://www.espncricinfo.com/cricketers/david-warner-219889,b Naveen-ul-Haq,25,18,5,0,138.88
+Afghanistan Vs Australia,Afghanistan,2,Cameron Green,https://www.espncricinfo.com/cricketers/cameron-green-1076713,c Gulbadin Naib b Fazalhaq Farooqi,3,2,0,0,150.00
+Afghanistan Vs Australia,Afghanistan,3,Mitchell Marsh,https://www.espncricinfo.com/cricketers/mitchell-marsh-272450,c †Rahmanullah Gurbaz b Mujeeb Ur Rahman,45,30,3,2,150.00
+Afghanistan Vs Australia,Afghanistan,4,Steven Smith,https://www.espncricinfo.com/cricketers/steven-smith-267192,lbw b Naveen-ul-Haq,4,4,1,0,100.00
+Afghanistan Vs Australia,Afghanistan,5,Marcus Stoinis,https://www.espncricinfo.com/cricketers/marcus-stoinis-325012,c Usman Ghani b Rashid Khan,25,21,0,2,119.04
+Afghanistan Vs Australia,Afghanistan,6,Glenn Maxwell,https://www.espncricinfo.com/cricketers/glenn-maxwell-325026,not out,54,32,6,2,168.75
+Afghanistan Vs Australia,Afghanistan,7,Matthew Wade (c)†,https://www.espncricinfo.com/cricketers/matthew-wade-230193,b Fazalhaq Farooqi,6,8,1,0,75.00
+Afghanistan Vs Australia,Afghanistan,8,Pat Cummins,https://www.espncricinfo.com/cricketers/pat-cummins-489889,c Rashid Khan b Naveen-ul-Haq,0,2,0,0,0.00
+Afghanistan Vs Australia,Afghanistan,9,Kane Richardson,https://www.espncricinfo.com/cricketers/kane-richardson-272262,run out (Naveen-ul-Haq),1,1,0,0,100.00
+Afghanistan Vs Australia,Afghanistan,10,Adam Zampa,https://www.espncricinfo.com/cricketers/adam-zampa-379504,not out,1,1,0,0,100.00
+Afghanistan Vs Australia,Australia,1,Rahmanullah Gurbaz †,https://www.espncricinfo.com/cricketers/rahmanullah-gurbaz-974087,c Warner b Richardson,30,17,2,2,176.47
+Afghanistan Vs Australia,Australia,2,Usman Ghani,https://www.espncricinfo.com/cricketers/usman-ghani-711559,c Cummins b Hazlewood,2,7,0,0,28.57
+Afghanistan Vs Australia,Australia,3,Ibrahim Zadran,https://www.espncricinfo.com/cricketers/ibrahim-zadran-921509,c Marsh b Zampa,26,33,2,0,78.78
+Afghanistan Vs Australia,Australia,4,Gulbadin Naib,https://www.espncricinfo.com/cricketers/gulbadin-naib-352048,run out (Maxwell),39,23,3,2,169.56
+Afghanistan Vs Australia,Australia,5,Mohammad Nabi (c),https://www.espncricinfo.com/cricketers/mohammad-nabi-25913,c Warner b Hazlewood,1,2,0,0,50.00
+Afghanistan Vs Australia,Australia,6,Najibullah Zadran,https://www.espncricinfo.com/cricketers/najibullah-zadran-524049,c Maxwell b Zampa,0,2,0,0,0.00
+Afghanistan Vs Australia,Australia,7,Darwish Rasooli,https://www.espncricinfo.com/cricketers/darwish-rasooli-819441,run out (†Wade/Stoinis),15,13,1,0,115.38
+Afghanistan Vs Australia,Australia,8,Rashid Khan,https://www.espncricinfo.com/cricketers/rashid-khan-793463,not out,48,23,3,4,208.69
+Afghanistan Vs Australia,Australia,9,Naveen-ul-Haq,https://www.espncricinfo.com/cricketers/naveen-ul-haq-793447,not out,0,0,0,0,-
+New Zealand Vs Ireland,New Zealand,1,Finn Allen,https://www.espncricinfo.com/cricketers/finn-allen-959759,c Hand b Adair,32,18,5,1,177.77
+New Zealand Vs Ireland,New Zealand,2,Devon Conway †,https://www.espncricinfo.com/cricketers/devon-conway-379140,c Adair b Delany,28,33,2,0,84.84
+New Zealand Vs Ireland,New Zealand,3,Kane Williamson (c),https://www.espncricinfo.com/cricketers/kane-williamson-277906,c Delany b Little,61,35,5,3,174.28
+New Zealand Vs Ireland,New Zealand,4,Glenn Phillips,https://www.espncricinfo.com/cricketers/glenn-phillips-823509,c Dockrell b Delany,17,9,2,1,188.88
+New Zealand Vs Ireland,New Zealand,5,Daryl Mitchell,https://www.espncricinfo.com/cricketers/daryl-mitchell-381743,not out,31,21,2,0,147.61
+New Zealand Vs Ireland,New Zealand,6,James Neesham,https://www.espncricinfo.com/cricketers/james-neesham-355269,lbw b Little,0,1,0,0,0.00
+New Zealand Vs Ireland,New Zealand,7,Mitchell Santner,https://www.espncricinfo.com/cricketers/mitchell-santner-502714,lbw b Little,0,1,0,0,0.00
+New Zealand Vs Ireland,New Zealand,8,Tim Southee,https://www.espncricinfo.com/cricketers/tim-southee-232364,not out,1,2,0,0,50.00
+New Zealand Vs Ireland,Ireland,1,Paul Stirling,https://www.espncricinfo.com/cricketers/paul-stirling-303427,b Sodhi,37,27,3,1,137.03
+New Zealand Vs Ireland,Ireland,2,Andy Balbirnie (c),https://www.espncricinfo.com/cricketers/andy-balbirnie-303423,b Santner,30,25,0,3,120.00
+New Zealand Vs Ireland,Ireland,3,Lorcan Tucker †,https://www.espncricinfo.com/cricketers/lorcan-tucker-928057,c Allen b Sodhi,13,14,0,0,92.85
+New Zealand Vs Ireland,Ireland,4,Harry Tector,https://www.espncricinfo.com/cricketers/harry-tector-961407,c Southee b Santner,2,7,0,0,28.57
+New Zealand Vs Ireland,Ireland,5,Gareth Delany,https://www.espncricinfo.com/cricketers/gareth-delany-1099379,c †Conway b Ferguson,10,8,2,0,125.00
+New Zealand Vs Ireland,Ireland,6,George Dockrell,https://www.espncricinfo.com/cricketers/george-dockrell-348034,c Williamson b Ferguson,23,15,3,0,153.33
+New Zealand Vs Ireland,Ireland,7,Curtis Campher,https://www.espncricinfo.com/cricketers/curtis-campher-595921,c Allen b Southee,7,7,1,0,100.00
+New Zealand Vs Ireland,Ireland,8,Fionn Hand,https://www.espncricinfo.com/cricketers/fionn-hand-1099225,c & b Ferguson,5,3,1,0,166.66
+New Zealand Vs Ireland,Ireland,9,Mark Adair,https://www.espncricinfo.com/cricketers/mark-adair-526441,c Phillips b Southee,4,5,0,0,80.00
+New Zealand Vs Ireland,Ireland,10,Barry McCarthy,https://www.espncricinfo.com/cricketers/barry-mccarthy-348059,not out,6,5,0,0,120.00
+New Zealand Vs Ireland,Ireland,11,Josh Little,https://www.espncricinfo.com/cricketers/josh-little-928067,not out,8,4,0,1,200.00
+South Africa Vs Pakistan,South Africa,1,Mohammad Rizwan †,https://www.espncricinfo.com/cricketers/mohammad-rizwan-323389,b Parnell,4,4,1,0,100.00
+South Africa Vs Pakistan,South Africa,2,Babar Azam (c),https://www.espncricinfo.com/cricketers/babar-azam-348144,c Rabada b Ngidi,6,15,0,0,40.00
+South Africa Vs Pakistan,South Africa,3,Mohammad Haris,https://www.espncricinfo.com/cricketers/mohammad-haris-1205559,lbw b Nortje,28,11,2,3,254.54
+South Africa Vs Pakistan,South Africa,4,Shan Masood,https://www.espncricinfo.com/cricketers/shan-masood-233901,c Bavuma b Nortje,2,6,0,0,33.33
+South Africa Vs Pakistan,South Africa,5,Iftikhar Ahmed,https://www.espncricinfo.com/cricketers/iftikhar-ahmed-480603,c Rossouw b Rabada,51,35,3,2,145.71
+South Africa Vs Pakistan,South Africa,6,Mohammad Nawaz,https://www.espncricinfo.com/cricketers/mohammad-nawaz-348148,lbw b Shamsi,28,22,4,1,127.27
+South Africa Vs Pakistan,South Africa,7,Shadab Khan,https://www.espncricinfo.com/cricketers/shadab-khan-922943,c Stubbs b Nortje,52,22,3,4,236.36
+South Africa Vs Pakistan,South Africa,8,Mohammad Wasim,https://www.espncricinfo.com/cricketers/mohammad-wasim-1185538,c Bavuma b Nortje,0,1,0,0,0.00
+South Africa Vs Pakistan,South Africa,9,Naseem Shah,https://www.espncricinfo.com/cricketers/naseem-shah-1158088,not out,5,3,0,0,166.66
+South Africa Vs Pakistan,South Africa,10,Haris Rauf,https://www.espncricinfo.com/cricketers/haris-rauf-1161606,run out (Klaasen/Bavuma),3,2,0,0,150.00
+South Africa Vs Pakistan,Pakistan,1,Temba Bavuma (c),https://www.espncricinfo.com/cricketers/temba-bavuma-372116,c †Mohammad Rizwan b Shadab Khan,36,19,4,1,189.47
+South Africa Vs Pakistan,Pakistan,2,Quinton de Kock †,https://www.espncricinfo.com/cricketers/quinton-de-kock-379143,c Mohammad Haris b Shaheen Shah Afridi,0,5,0,0,0.00
+South Africa Vs Pakistan,Pakistan,3,Rilee Rossouw,https://www.espncricinfo.com/cricketers/rilee-rossouw-318845,c Naseem Shah b Shaheen Shah Afridi,7,6,0,1,116.66
+South Africa Vs Pakistan,Pakistan,4,Aiden Markram,https://www.espncricinfo.com/cricketers/aiden-markram-600498,b Shadab Khan,20,14,4,0,142.85
+South Africa Vs Pakistan,Pakistan,5,Heinrich Klaasen,https://www.espncricinfo.com/cricketers/heinrich-klaasen-436757,c Mohammad Wasim b Shaheen Shah Afridi,15,9,3,0,166.66
+South Africa Vs Pakistan,Pakistan,6,Tristan Stubbs,https://www.espncricinfo.com/cricketers/tristan-stubbs-595978,c Mohammad Nawaz b Naseem Shah,18,18,0,1,100.00
+South Africa Vs Pakistan,Pakistan,7,Wayne Parnell,https://www.espncricinfo.com/cricketers/wayne-parnell-265564,lbw b Mohammad Wasim,3,4,0,0,75.00
+South Africa Vs Pakistan,Pakistan,8,Kagiso Rabada,https://www.espncricinfo.com/cricketers/kagiso-rabada-550215,run out (Mohammad Nawaz/Haris Rauf),1,2,0,0,50.00
+South Africa Vs Pakistan,Pakistan,9,Anrich Nortje,https://www.espncricinfo.com/cricketers/anrich-nortje-481979,c Mohammad Haris b Haris Rauf,1,5,0,0,20.00
+South Africa Vs Pakistan,Pakistan,10,Lungi Ngidi,https://www.espncricinfo.com/cricketers/lungi-ngidi-542023,not out,4,1,1,0,400.00
+South Africa Vs Pakistan,Pakistan,11,Tabraiz Shamsi,https://www.espncricinfo.com/cricketers/tabraiz-shamsi-379145,not out,1,1,0,0,100.00
+India Vs Bangladesh,India,1,KL Rahul,https://www.espncricinfo.com/cricketers/kl-rahul-422108,c Mustafizur Rahman b Shakib Al Hasan,50,32,3,4,156.25
+India Vs Bangladesh,India,2,Rohit Sharma (c),https://www.espncricinfo.com/cricketers/rohit-sharma-34102,c Yasir Ali b Hasan Mahmud,2,8,0,0,25.00
+India Vs Bangladesh,India,3,Virat Kohli,https://www.espncricinfo.com/cricketers/virat-kohli-253802,not out,64,44,8,1,145.45
+India Vs Bangladesh,India,4,Suryakumar Yadav,https://www.espncricinfo.com/cricketers/suryakumar-yadav-446507,b Shakib Al Hasan,30,16,4,0,187.50
+India Vs Bangladesh,India,5,Hardik Pandya,https://www.espncricinfo.com/cricketers/hardik-pandya-625371,c Yasir Ali b Hasan Mahmud,5,6,0,0,83.33
+India Vs Bangladesh,India,6,Dinesh Karthik †,https://www.espncricinfo.com/cricketers/dinesh-karthik-30045,run out (Shakib Al Hasan/Shoriful Islam),7,5,1,0,140.00
+India Vs Bangladesh,India,7,Axar Patel,https://www.espncricinfo.com/cricketers/axar-patel-554691,c Shakib Al Hasan b Hasan Mahmud,7,6,1,0,116.66
+India Vs Bangladesh,India,8,Ravichandran Ashwin,https://www.espncricinfo.com/cricketers/ravichandran-ashwin-26421,not out,13,6,1,1,216.66
+India Vs Bangladesh,Bangladesh,1,Najmul Hossain Shanto,https://www.espncricinfo.com/cricketers/najmul-hossain-shanto-629058,c Yadav b Mohammed Shami,21,25,1,1,84.00
+India Vs Bangladesh,Bangladesh,2,Litton Das,https://www.espncricinfo.com/cricketers/litton-das-536936,run out (Rahul),60,27,7,3,222.22
+India Vs Bangladesh,Bangladesh,3,Shakib Al Hasan (c),https://www.espncricinfo.com/cricketers/shakib-al-hasan-56143,c sub (DJ Hooda) b Arshdeep Singh,13,12,2,0,108.33
+India Vs Bangladesh,Bangladesh,4,Afif Hossain,https://www.espncricinfo.com/cricketers/afif-hossain-935995,c Yadav b Arshdeep Singh,3,5,0,0,60.00
+India Vs Bangladesh,Bangladesh,5,Yasir Ali,https://www.espncricinfo.com/cricketers/yasir-ali-629059,c Arshdeep Singh b Pandya,1,3,0,0,33.33
+India Vs Bangladesh,Bangladesh,6,Nurul Hasan †,https://www.espncricinfo.com/cricketers/nurul-hasan-410765,not out,25,14,2,1,178.57
+India Vs Bangladesh,Bangladesh,7,Mosaddek Hossain,https://www.espncricinfo.com/cricketers/mosaddek-hossain-550133,b Pandya,6,3,0,1,200.00
+India Vs Bangladesh,Bangladesh,8,Taskin Ahmed,https://www.espncricinfo.com/cricketers/taskin-ahmed-538506,not out,12,7,1,1,171.42
+Zimbabwe Vs Netherlands,Zimbabwe,1,Wessly Madhevere,https://www.espncricinfo.com/cricketers/wessly-madhevere-938959,b van Meekeren,1,5,0,0,20.00
+Zimbabwe Vs Netherlands,Zimbabwe,2,Craig Ervine (c),https://www.espncricinfo.com/cricketers/craig-ervine-55412,c †Edwards b Glover,3,12,0,0,25.00
+Zimbabwe Vs Netherlands,Zimbabwe,3,Regis Chakabva †,https://www.espncricinfo.com/cricketers/regis-chakabva-293831,lbw b Glover,5,16,1,0,31.25
+Zimbabwe Vs Netherlands,Zimbabwe,4,Sean Williams,https://www.espncricinfo.com/cricketers/sean-williams-55870,c O'Dowd b van Meekeren,28,23,3,0,121.73
+Zimbabwe Vs Netherlands,Zimbabwe,5,Sikandar Raza,https://www.espncricinfo.com/cricketers/sikandar-raza-299572,c Klaassen b de Leede,40,24,3,3,166.66
+Zimbabwe Vs Netherlands,Zimbabwe,6,Milton Shumba,https://www.espncricinfo.com/cricketers/milton-shumba-951781,c Myburgh b van Beek,2,3,0,0,66.66
+Zimbabwe Vs Netherlands,Zimbabwe,7,Ryan Burl,https://www.espncricinfo.com/cricketers/ryan-burl-495964,b van Meekeren,2,7,0,0,28.57
+Zimbabwe Vs Netherlands,Zimbabwe,8,Luke Jongwe,https://www.espncricinfo.com/cricketers/luke-jongwe-541224,c van Beek b de Leede,6,8,0,0,75.00
+Zimbabwe Vs Netherlands,Zimbabwe,9,Richard Ngarava,https://www.espncricinfo.com/cricketers/richard-ngarava-806241,c Myburgh b Klaassen,9,7,0,1,128.57
+Zimbabwe Vs Netherlands,Zimbabwe,10,Tendai Chatara,https://www.espncricinfo.com/cricketers/tendai-chatara-425639,not out,6,7,0,0,85.71
+Zimbabwe Vs Netherlands,Zimbabwe,11,Blessing Muzarabani,https://www.espncricinfo.com/cricketers/blessing-muzarabani-827051,c Glover b van Beek,1,4,0,0,25.00
+Zimbabwe Vs Netherlands,Netherlands,1,Stephan Myburgh,https://www.espncricinfo.com/cricketers/stephan-myburgh-233712,c Burl b Muzarabani,8,7,0,1,114.28
+Zimbabwe Vs Netherlands,Netherlands,2,Max O'Dowd,https://www.espncricinfo.com/cricketers/max-o-dowd-643197,c Shumba b Muzarabani,52,47,8,1,110.63
+Zimbabwe Vs Netherlands,Netherlands,3,Tom Cooper,https://www.espncricinfo.com/cricketers/tom-cooper-219885,c Madhevere b Jongwe,32,29,2,1,110.34
+Zimbabwe Vs Netherlands,Netherlands,4,Colin Ackermann,https://www.espncricinfo.com/cricketers/colin-ackermann-379774,c Jongwe b Ngarava,1,5,0,0,20.00
+Zimbabwe Vs Netherlands,Netherlands,5,Bas de Leede,https://www.espncricinfo.com/cricketers/bas-de-leede-1036191,not out,12,12,2,0,100.00
+Zimbabwe Vs Netherlands,Netherlands,6,Scott Edwards (c)†,https://www.espncricinfo.com/cricketers/scott-edwards-1127317,c †Chakabva b Ngarava,5,6,1,0,83.33
+Zimbabwe Vs Netherlands,Netherlands,7,Roelof van der Merwe,https://www.espncricinfo.com/cricketers/roelof-van-der-merwe-47850,not out,0,3,0,0,0.00
+New Zealand Vs England,New Zealand,1,Jos Buttler (c)†,https://www.espncricinfo.com/cricketers/jos-buttler-308967,run out (Williamson/Southee),73,47,7,2,155.31
+New Zealand Vs England,New Zealand,2,Alex Hales,https://www.espncricinfo.com/cricketers/alex-hales-249866,st †Conway b Santner,52,40,7,1,130.00
+New Zealand Vs England,New Zealand,3,Moeen Ali,https://www.espncricinfo.com/cricketers/moeen-ali-8917,c Boult b Sodhi,5,6,0,0,83.33
+New Zealand Vs England,New Zealand,4,Liam Livingstone,https://www.espncricinfo.com/cricketers/liam-livingstone-403902,b Ferguson,20,14,1,1,142.85
+New Zealand Vs England,New Zealand,5,Harry Brook,https://www.espncricinfo.com/cricketers/harry-brook-911707,c Allen b Southee,7,3,0,1,233.33
+New Zealand Vs England,New Zealand,6,Ben Stokes,https://www.espncricinfo.com/cricketers/ben-stokes-311158,lbw b Ferguson,8,7,0,0,114.28
+New Zealand Vs England,New Zealand,7,Sam Curran,https://www.espncricinfo.com/cricketers/sam-curran-662973,not out,6,3,0,1,200.00
+New Zealand Vs England,New Zealand,8,Dawid Malan,https://www.espncricinfo.com/cricketers/dawid-malan-236489,not out,3,1,0,0,300.00
+New Zealand Vs England,England,1,Finn Allen,https://www.espncricinfo.com/cricketers/finn-allen-959759,c Stokes b Curran,16,11,0,1,145.45
+New Zealand Vs England,England,2,Devon Conway †,https://www.espncricinfo.com/cricketers/devon-conway-379140,c †Buttler b Woakes,3,9,0,0,33.33
+New Zealand Vs England,England,3,Kane Williamson (c),https://www.espncricinfo.com/cricketers/kane-williamson-277906,c Rashid b Stokes,40,40,3,0,100.00
+New Zealand Vs England,England,4,Glenn Phillips,https://www.espncricinfo.com/cricketers/glenn-phillips-823509,c sub (CJ Jordan) b Curran,62,36,4,3,172.22
+New Zealand Vs England,England,5,James Neesham,https://www.espncricinfo.com/cricketers/james-neesham-355269,c Curran b Wood,6,3,1,0,200.00
+New Zealand Vs England,England,6,Daryl Mitchell,https://www.espncricinfo.com/cricketers/daryl-mitchell-381743,c sub (CJ Jordan) b Woakes,3,5,0,0,60.00
+New Zealand Vs England,England,7,Mitchell Santner,https://www.espncricinfo.com/cricketers/mitchell-santner-502714,not out,16,10,0,1,160.00
+New Zealand Vs England,England,8,Ish Sodhi,https://www.espncricinfo.com/cricketers/ish-sodhi-559066,not out,6,6,0,0,100.00
+Sri Lanka Vs Afghanistan,Sri Lanka,1,Rahmanullah Gurbaz †,https://www.espncricinfo.com/cricketers/rahmanullah-gurbaz-974087,b Kumara,28,24,2,2,116.66
+Sri Lanka Vs Afghanistan,Sri Lanka,2,Usman Ghani,https://www.espncricinfo.com/cricketers/usman-ghani-711559,c Shanaka b Hasaranga,27,27,2,1,100.00
+Sri Lanka Vs Afghanistan,Sri Lanka,3,Ibrahim Zadran,https://www.espncricinfo.com/cricketers/ibrahim-zadran-921509,c Rajapaksa b Kumara,22,18,1,1,122.22
+Sri Lanka Vs Afghanistan,Sri Lanka,4,Najibullah Zadran,https://www.espncricinfo.com/cricketers/najibullah-zadran-524049,c Hasaranga b de Silva,18,16,1,0,112.50
+Sri Lanka Vs Afghanistan,Sri Lanka,5,Gulbadin Naib,https://www.espncricinfo.com/cricketers/gulbadin-naib-352048,run out (Nissanka/†Mendis),12,14,0,0,85.71
+Sri Lanka Vs Afghanistan,Sri Lanka,6,Mohammad Nabi (c),https://www.espncricinfo.com/cricketers/mohammad-nabi-25913,c Shanaka b Rajitha,13,8,1,0,162.50
+Sri Lanka Vs Afghanistan,Sri Lanka,7,Rashid Khan,https://www.espncricinfo.com/cricketers/rashid-khan-793463,b Hasaranga,9,8,1,0,112.50
+Sri Lanka Vs Afghanistan,Sri Lanka,8,Azmatullah Omarzai,https://www.espncricinfo.com/cricketers/azmatullah-omarzai-819429,not out,3,4,0,0,75.00
+Sri Lanka Vs Afghanistan,Sri Lanka,9,Mujeeb Ur Rahman,https://www.espncricinfo.com/cricketers/mujeeb-ur-rahman-974109,st †Mendis b Hasaranga,1,2,0,0,50.00
+Sri Lanka Vs Afghanistan,Afghanistan,1,Pathum Nissanka,https://www.espncricinfo.com/cricketers/pathum-nissanka-1028655,b Mujeeb Ur Rahman,10,10,2,0,100.00
+Sri Lanka Vs Afghanistan,Afghanistan,2,Kusal Mendis †,https://www.espncricinfo.com/cricketers/kusal-mendis-629074,c †Rahmanullah Gurbaz b Rashid Khan,25,27,2,1,92.59
+Sri Lanka Vs Afghanistan,Afghanistan,3,Dhananjaya de Silva,https://www.espncricinfo.com/cricketers/dhananjaya-de-silva-465793,not out,66,42,6,2,157.14
+Sri Lanka Vs Afghanistan,Afghanistan,4,Charith Asalanka,https://www.espncricinfo.com/cricketers/charith-asalanka-784367,c Azmatullah Omarzai b Rashid Khan,19,18,1,0,105.55
+Sri Lanka Vs Afghanistan,Afghanistan,5,Bhanuka Rajapaksa,https://www.espncricinfo.com/cricketers/bhanuka-rajapaksa-342619,c †Rahmanullah Gurbaz b Mujeeb Ur Rahman,18,14,3,0,128.57
+Sri Lanka Vs Afghanistan,Afghanistan,6,Dasun Shanaka (c),https://www.espncricinfo.com/cricketers/dasun-shanaka-437316,not out,0,0,0,0,-
+Ireland Vs Australia,Ireland,1,David Warner,https://www.espncricinfo.com/cricketers/david-warner-219889,c Adair b McCarthy,3,7,0,0,42.85
+Ireland Vs Australia,Ireland,2,Aaron Finch (c),https://www.espncricinfo.com/cricketers/aaron-finch-5334,c Adair b McCarthy,63,44,5,3,143.18
+Ireland Vs Australia,Ireland,3,Mitchell Marsh,https://www.espncricinfo.com/cricketers/mitchell-marsh-272450,c †Tucker b McCarthy,28,22,2,2,127.27
+Ireland Vs Australia,Ireland,4,Glenn Maxwell,https://www.espncricinfo.com/cricketers/glenn-maxwell-325026,c †Tucker b Little,13,9,0,1,144.44
+Ireland Vs Australia,Ireland,5,Marcus Stoinis,https://www.espncricinfo.com/cricketers/marcus-stoinis-325012,c Dockrell b Little,35,25,3,1,140.00
+Ireland Vs Australia,Ireland,6,Tim David,https://www.espncricinfo.com/cricketers/tim-david-892749,not out,15,10,2,0,150.00
+Ireland Vs Australia,Ireland,7,Matthew Wade †,https://www.espncricinfo.com/cricketers/matthew-wade-230193,not out,7,3,1,0,233.33
+Ireland Vs Australia,Australia,1,Paul Stirling,https://www.espncricinfo.com/cricketers/paul-stirling-303427,c Cummins b Maxwell,11,7,1,1,157.14
+Ireland Vs Australia,Australia,2,Andy Balbirnie (c),https://www.espncricinfo.com/cricketers/andy-balbirnie-303423,b Cummins,6,7,0,1,85.71
+Ireland Vs Australia,Australia,3,Lorcan Tucker †,https://www.espncricinfo.com/cricketers/lorcan-tucker-928057,not out,71,48,9,1,147.91
+Ireland Vs Australia,Australia,4,Harry Tector,https://www.espncricinfo.com/cricketers/harry-tector-961407,c sub (SPD Smith) b Maxwell,6,4,1,0,150.00
+Ireland Vs Australia,Australia,5,Curtis Campher,https://www.espncricinfo.com/cricketers/curtis-campher-595921,b Starc,0,1,0,0,0.00
+Ireland Vs Australia,Australia,6,George Dockrell,https://www.espncricinfo.com/cricketers/george-dockrell-348034,b Starc,0,4,0,0,0.00
+Ireland Vs Australia,Australia,7,Gareth Delany,https://www.espncricinfo.com/cricketers/gareth-delany-1099379,c Maxwell b Stoinis,14,10,2,0,140.00
+Ireland Vs Australia,Australia,8,Mark Adair,https://www.espncricinfo.com/cricketers/mark-adair-526441,st †Wade b Zampa,11,11,1,0,100.00
+Ireland Vs Australia,Australia,9,Fionn Hand,https://www.espncricinfo.com/cricketers/fionn-hand-1099225,b Zampa,6,6,1,0,100.00
+Ireland Vs Australia,Australia,10,Barry McCarthy,https://www.espncricinfo.com/cricketers/barry-mccarthy-348059,c sub (SPD Smith) b Cummins,3,7,0,0,42.85
+Ireland Vs Australia,Australia,11,Josh Little,https://www.espncricinfo.com/cricketers/josh-little-928067,run out (Marsh/Maxwell),1,5,0,0,20.00
+South Africa Vs India,South Africa,1,KL Rahul,https://www.espncricinfo.com/cricketers/kl-rahul-422108,c Markram b Ngidi,9,14,0,1,64.28
+South Africa Vs India,South Africa,2,Rohit Sharma (c),https://www.espncricinfo.com/cricketers/rohit-sharma-34102,c & b Ngidi,15,14,1,1,107.14
+South Africa Vs India,South Africa,3,Virat Kohli,https://www.espncricinfo.com/cricketers/virat-kohli-253802,c Rabada b Ngidi,12,11,2,0,109.09
+South Africa Vs India,South Africa,4,Suryakumar Yadav,https://www.espncricinfo.com/cricketers/suryakumar-yadav-446507,c Maharaj b Parnell,68,40,6,3,170.00
+South Africa Vs India,South Africa,5,Deepak Hooda,https://www.espncricinfo.com/cricketers/deepak-hooda-497121,c †de Kock b Nortje,0,3,0,0,0.00
+South Africa Vs India,South Africa,6,Hardik Pandya,https://www.espncricinfo.com/cricketers/hardik-pandya-625371,c Rabada b Ngidi,2,3,0,0,66.66
+South Africa Vs India,South Africa,7,Dinesh Karthik †,https://www.espncricinfo.com/cricketers/dinesh-karthik-30045,c Rossouw b Parnell,6,15,0,0,40.00
+South Africa Vs India,South Africa,8,Ravichandran Ashwin,https://www.espncricinfo.com/cricketers/ravichandran-ashwin-26421,c Rabada b Parnell,7,11,0,0,63.63
+South Africa Vs India,South Africa,9,Bhuvneshwar Kumar,https://www.espncricinfo.com/cricketers/bhuvneshwar-kumar-326016,not out,4,6,0,0,66.66
+South Africa Vs India,South Africa,10,Mohammed Shami,https://www.espncricinfo.com/cricketers/mohammed-shami-481896,run out (Nortje),0,2,0,0,0.00
+South Africa Vs India,South Africa,11,Arshdeep Singh,https://www.espncricinfo.com/cricketers/arshdeep-singh-1125976,not out,2,1,0,0,200.00
+South Africa Vs India,India,1,Quinton de Kock †,https://www.espncricinfo.com/cricketers/quinton-de-kock-379143,c Rahul b Arshdeep Singh,1,3,0,0,33.33
+South Africa Vs India,India,2,Temba Bavuma (c),https://www.espncricinfo.com/cricketers/temba-bavuma-372116,c †Karthik b Mohammed Shami,10,15,0,1,66.66
+South Africa Vs India,India,3,Rilee Rossouw,https://www.espncricinfo.com/cricketers/rilee-rossouw-318845,lbw b Arshdeep Singh,0,2,0,0,0.00
+South Africa Vs India,India,4,Aiden Markram,https://www.espncricinfo.com/cricketers/aiden-markram-600498,c Yadav b Pandya,52,41,6,1,126.82
+South Africa Vs India,India,5,David Miller,https://www.espncricinfo.com/cricketers/david-miller-321777,not out,59,46,4,3,128.26
+South Africa Vs India,India,6,Tristan Stubbs,https://www.espncricinfo.com/cricketers/tristan-stubbs-595978,lbw b Ashwin,6,6,1,0,100.00
+South Africa Vs India,India,7,Wayne Parnell,https://www.espncricinfo.com/cricketers/wayne-parnell-265564,not out,2,5,0,0,40.00
+Pakistan Vs Netherlands,Pakistan,1,Stephan Myburgh,https://www.espncricinfo.com/cricketers/stephan-myburgh-233712,c Mohammad Wasim b Shaheen Shah Afridi,6,11,1,0,54.54
+Pakistan Vs Netherlands,Pakistan,2,Max O'Dowd,https://www.espncricinfo.com/cricketers/max-o-dowd-643197,lbw b Shadab Khan,8,13,0,0,61.53
+Pakistan Vs Netherlands,Pakistan,3,Bas de Leede,https://www.espncricinfo.com/cricketers/bas-de-leede-1036191,retired hurt,6,16,1,0,37.50
+Pakistan Vs Netherlands,Pakistan,4,Tom Cooper,https://www.espncricinfo.com/cricketers/tom-cooper-219885,c Mohammad Wasim b Shadab Khan,1,2,0,0,50.00
+Pakistan Vs Netherlands,Pakistan,5,Colin Ackermann,https://www.espncricinfo.com/cricketers/colin-ackermann-379774,lbw b Shadab Khan,27,27,2,0,100.00
+Pakistan Vs Netherlands,Pakistan,6,Scott Edwards (c)†,https://www.espncricinfo.com/cricketers/scott-edwards-1127317,c Iftikhar Ahmed b Naseem Shah,15,20,1,0,75.00
+Pakistan Vs Netherlands,Pakistan,7,Roelof van der Merwe,https://www.espncricinfo.com/cricketers/roelof-van-der-merwe-47850,b Haris Rauf,5,6,0,0,83.33
+Pakistan Vs Netherlands,Pakistan,8,Tim Pringle,https://www.espncricinfo.com/cricketers/tim-pringle-1193548,b Mohammad Wasim,5,8,0,0,62.50
+Pakistan Vs Netherlands,Pakistan,9,Logan van Beek,https://www.espncricinfo.com/cricketers/logan-van-beek-440522,not out,6,9,0,0,66.66
+Pakistan Vs Netherlands,Pakistan,10,Fred Klaassen,https://www.espncricinfo.com/cricketers/fred-klaassen-1104703,b Mohammad Wasim,0,1,0,0,0.00
+Pakistan Vs Netherlands,Pakistan,11,Paul van Meekeren,https://www.espncricinfo.com/cricketers/paul-van-meekeren-348109,run out (Shadab Khan/†Mohammad Rizwan),7,7,0,0,100.00
+Pakistan Vs Netherlands,Netherlands,1,Mohammad Rizwan †,https://www.espncricinfo.com/cricketers/mohammad-rizwan-323389,c †Edwards b van Meekeren,49,39,5,0,125.64
+Pakistan Vs Netherlands,Netherlands,2,Babar Azam (c),https://www.espncricinfo.com/cricketers/babar-azam-348144,run out (van der Merwe),4,5,1,0,80.00
+Pakistan Vs Netherlands,Netherlands,3,Fakhar Zaman,https://www.espncricinfo.com/cricketers/fakhar-zaman-512191,c †Edwards b Glover,20,16,3,0,125.00
+Pakistan Vs Netherlands,Netherlands,4,Shan Masood,https://www.espncricinfo.com/cricketers/shan-masood-233901,c van Meekeren b Glover,12,16,0,0,75.00
+Pakistan Vs Netherlands,Netherlands,5,Iftikhar Ahmed,https://www.espncricinfo.com/cricketers/iftikhar-ahmed-480603,not out,6,5,0,0,120.00
+Pakistan Vs Netherlands,Netherlands,6,Shadab Khan,https://www.espncricinfo.com/cricketers/shadab-khan-922943,not out,4,2,1,0,200.00
+Zimbabwe Vs Bangladesh,Zimbabwe,1,Najmul Hossain Shanto,https://www.espncricinfo.com/cricketers/najmul-hossain-shanto-629058,c Ervine b Sikandar Raza,71,55,7,1,129.09
+Zimbabwe Vs Bangladesh,Zimbabwe,2,Soumya Sarkar,https://www.espncricinfo.com/cricketers/soumya-sarkar-436677,c †Chakabva b Muzarabani,0,2,0,0,0.00
+Zimbabwe Vs Bangladesh,Zimbabwe,3,Litton Das,https://www.espncricinfo.com/cricketers/litton-das-536936,c Chatara b Muzarabani,14,12,3,0,116.66
+Zimbabwe Vs Bangladesh,Zimbabwe,4,Shakib Al Hasan (c),https://www.espncricinfo.com/cricketers/shakib-al-hasan-56143,c Muzarabani b Williams,23,20,1,0,115.00
+Zimbabwe Vs Bangladesh,Zimbabwe,5,Afif Hossain,https://www.espncricinfo.com/cricketers/afif-hossain-935995,lbw b Ngarava,29,19,1,1,152.63
+Zimbabwe Vs Bangladesh,Zimbabwe,6,Mosaddek Hossain,https://www.espncricinfo.com/cricketers/mosaddek-hossain-550133,c Chatara b Ngarava,7,10,0,0,70.00
+Zimbabwe Vs Bangladesh,Zimbabwe,7,Nurul Hasan †,https://www.espncricinfo.com/cricketers/nurul-hasan-410765,run out (Williams/†Chakabva),1,1,0,0,100.00
+Zimbabwe Vs Bangladesh,Zimbabwe,8,Yasir Ali,https://www.espncricinfo.com/cricketers/yasir-ali-629059,not out,1,1,0,0,100.00
+Zimbabwe Vs Bangladesh,Bangladesh,1,Wessly Madhevere,https://www.espncricinfo.com/cricketers/wessly-madhevere-938959,c Mustafizur Rahman b Taskin Ahmed,4,3,1,0,133.33
+Zimbabwe Vs Bangladesh,Bangladesh,2,Craig Ervine (c),https://www.espncricinfo.com/cricketers/craig-ervine-55412,c †Nurul Hasan b Taskin Ahmed,8,7,2,0,114.28
+Zimbabwe Vs Bangladesh,Bangladesh,3,Milton Shumba,https://www.espncricinfo.com/cricketers/milton-shumba-951781,c Shakib Al Hasan b Mustafizur Rahman,8,15,1,0,53.33
+Zimbabwe Vs Bangladesh,Bangladesh,4,Sean Williams,https://www.espncricinfo.com/cricketers/sean-williams-55870,run out (Shakib Al Hasan),64,42,8,0,152.38
+Zimbabwe Vs Bangladesh,Bangladesh,5,Sikandar Raza,https://www.espncricinfo.com/cricketers/sikandar-raza-299572,c Afif Hossain b Mustafizur Rahman,0,3,0,0,0.00
+Zimbabwe Vs Bangladesh,Bangladesh,6,Regis Chakabva †,https://www.espncricinfo.com/cricketers/regis-chakabva-293831,c †Nurul Hasan b Taskin Ahmed,15,19,0,0,78.94
+Zimbabwe Vs Bangladesh,Bangladesh,7,Ryan Burl,https://www.espncricinfo.com/cricketers/ryan-burl-495964,not out,27,25,2,1,108.00
+Zimbabwe Vs Bangladesh,Bangladesh,8,Brad Evans,https://www.espncricinfo.com/cricketers/brad-evans-696127,c Afif Hossain b Mosaddek Hossain,2,2,0,0,100.00
+Zimbabwe Vs Bangladesh,Bangladesh,9,Richard Ngarava,https://www.espncricinfo.com/cricketers/richard-ngarava-806241,st †Nurul Hasan b Mosaddek Hossain,6,3,0,1,200.00
+Zimbabwe Vs Bangladesh,Bangladesh,10,Blessing Muzarabani,https://www.espncricinfo.com/cricketers/blessing-muzarabani-827051,not out,0,2,0,0,0.00
+Sri Lanka Vs New Zealand,Sri Lanka,1,Finn Allen,https://www.espncricinfo.com/cricketers/finn-allen-959759,b Theekshana,1,3,0,0,33.33
+Sri Lanka Vs New Zealand,Sri Lanka,2,Devon Conway †,https://www.espncricinfo.com/cricketers/devon-conway-379140,b de Silva,1,4,0,0,25.00
+Sri Lanka Vs New Zealand,Sri Lanka,3,Kane Williamson (c),https://www.espncricinfo.com/cricketers/kane-williamson-277906,c †Mendis b Rajitha,8,13,1,0,61.53
+Sri Lanka Vs New Zealand,Sri Lanka,4,Glenn Phillips,https://www.espncricinfo.com/cricketers/glenn-phillips-823509,c Shanaka b Kumara,104,64,10,4,162.50
+Sri Lanka Vs New Zealand,Sri Lanka,5,Daryl Mitchell,https://www.espncricinfo.com/cricketers/daryl-mitchell-381743,b Hasaranga,22,24,0,0,91.66
+Sri Lanka Vs New Zealand,Sri Lanka,6,James Neesham,https://www.espncricinfo.com/cricketers/james-neesham-355269,c Shanaka b Rajitha,5,8,0,0,62.50
+Sri Lanka Vs New Zealand,Sri Lanka,7,Mitchell Santner,https://www.espncricinfo.com/cricketers/mitchell-santner-502714,not out,11,5,0,1,220.00
+Sri Lanka Vs New Zealand,Sri Lanka,8,Ish Sodhi,https://www.espncricinfo.com/cricketers/ish-sodhi-559066,run out (sub [KNA Bandara]/†Mendis),1,1,0,0,100.00
+Sri Lanka Vs New Zealand,Sri Lanka,9,Tim Southee,https://www.espncricinfo.com/cricketers/tim-southee-232364,not out,4,1,1,0,400.00
+Sri Lanka Vs New Zealand,New Zealand,1,Pathum Nissanka,https://www.espncricinfo.com/cricketers/pathum-nissanka-1028655,lbw b Southee,0,5,0,0,0.00
+Sri Lanka Vs New Zealand,New Zealand,2,Kusal Mendis †,https://www.espncricinfo.com/cricketers/kusal-mendis-629074,c †Conway b Boult,4,3,1,0,133.33
+Sri Lanka Vs New Zealand,New Zealand,3,Dhananjaya de Silva,https://www.espncricinfo.com/cricketers/dhananjaya-de-silva-465793,b Boult,0,3,0,0,0.00
+Sri Lanka Vs New Zealand,New Zealand,4,Charith Asalanka,https://www.espncricinfo.com/cricketers/charith-asalanka-784367,c Allen b Boult,4,8,0,0,50.00
+Sri Lanka Vs New Zealand,New Zealand,5,Bhanuka Rajapaksa,https://www.espncricinfo.com/cricketers/bhanuka-rajapaksa-342619,c Williamson b Ferguson,34,22,3,2,154.54
+Sri Lanka Vs New Zealand,New Zealand,6,Chamika Karunaratne,https://www.espncricinfo.com/cricketers/chamika-karunaratne-623695,c Boult b Santner,3,8,0,0,37.50
+Sri Lanka Vs New Zealand,New Zealand,7,Dasun Shanaka (c),https://www.espncricinfo.com/cricketers/dasun-shanaka-437316,c Mitchell b Boult,35,32,4,1,109.37
+Sri Lanka Vs New Zealand,New Zealand,8,Wanindu Hasaranga,https://www.espncricinfo.com/cricketers/wanindu-hasaranga-784379,c Williamson b Sodhi,4,6,1,0,66.66
+Sri Lanka Vs New Zealand,New Zealand,9,Maheesh Theekshana,https://www.espncricinfo.com/cricketers/maheesh-theekshana-1138316,c Neesham b Santner,0,3,0,0,0.00
+Sri Lanka Vs New Zealand,New Zealand,10,Kasun Rajitha,https://www.espncricinfo.com/cricketers/kasun-rajitha-499594,not out,8,21,0,0,38.09
+Sri Lanka Vs New Zealand,New Zealand,11,Lahiru Kumara,https://www.espncricinfo.com/cricketers/lahiru-kumara-784375,st †Conway b Sodhi,4,5,1,0,80.00
+Zimbabwe Vs Pakistan,Zimbabwe,1,Wessly Madhevere,https://www.espncricinfo.com/cricketers/wessly-madhevere-938959,lbw b Mohammad Wasim,17,13,3,0,130.76
+Zimbabwe Vs Pakistan,Zimbabwe,2,Craig Ervine (c),https://www.espncricinfo.com/cricketers/craig-ervine-55412,c Mohammad Wasim b Haris Rauf,19,19,2,0,100.00
+Zimbabwe Vs Pakistan,Zimbabwe,3,Milton Shumba,https://www.espncricinfo.com/cricketers/milton-shumba-951781,c & b Shadab Khan,8,10,1,0,80.00
+Zimbabwe Vs Pakistan,Zimbabwe,4,Sean Williams,https://www.espncricinfo.com/cricketers/sean-williams-55870,b Shadab Khan,31,28,3,0,110.71
+Zimbabwe Vs Pakistan,Zimbabwe,5,Sikandar Raza,https://www.espncricinfo.com/cricketers/sikandar-raza-299572,c Haris Rauf b Mohammad Wasim,9,16,1,0,56.25
+Zimbabwe Vs Pakistan,Zimbabwe,6,Regis Chakabva †,https://www.espncricinfo.com/cricketers/regis-chakabva-293831,c Babar Azam b Shadab Khan,0,1,0,0,0.00
+Zimbabwe Vs Pakistan,Zimbabwe,7,Ryan Burl,https://www.espncricinfo.com/cricketers/ryan-burl-495964,not out,10,15,0,0,66.66
+Zimbabwe Vs Pakistan,Zimbabwe,8,Luke Jongwe,https://www.espncricinfo.com/cricketers/luke-jongwe-541224,b Mohammad Wasim,0,1,0,0,0.00
+Zimbabwe Vs Pakistan,Zimbabwe,9,Brad Evans,https://www.espncricinfo.com/cricketers/brad-evans-696127,b Mohammad Wasim,19,15,0,1,126.66
+Zimbabwe Vs Pakistan,Zimbabwe,10,Richard Ngarava,https://www.espncricinfo.com/cricketers/richard-ngarava-806241,not out,3,2,0,0,150.00
+Zimbabwe Vs Pakistan,Pakistan,1,Mohammad Rizwan †,https://www.espncricinfo.com/cricketers/mohammad-rizwan-323389,b Muzarabani,14,16,1,1,87.50
+Zimbabwe Vs Pakistan,Pakistan,2,Babar Azam (c),https://www.espncricinfo.com/cricketers/babar-azam-348144,c Burl b Evans,4,9,1,0,44.44
+Zimbabwe Vs Pakistan,Pakistan,3,Shan Masood,https://www.espncricinfo.com/cricketers/shan-masood-233901,st †Chakabva b Sikandar Raza,44,38,3,0,115.78
+Zimbabwe Vs Pakistan,Pakistan,4,Iftikhar Ahmed,https://www.espncricinfo.com/cricketers/iftikhar-ahmed-480603,c †Chakabva b Jongwe,5,10,1,0,50.00
+Zimbabwe Vs Pakistan,Pakistan,5,Shadab Khan,https://www.espncricinfo.com/cricketers/shadab-khan-922943,c Williams b Sikandar Raza,17,14,0,1,121.42
+Zimbabwe Vs Pakistan,Pakistan,6,Haider Ali,https://www.espncricinfo.com/cricketers/haider-ali-1168651,lbw b Sikandar Raza,0,1,0,0,0.00
+Zimbabwe Vs Pakistan,Pakistan,7,Mohammad Nawaz,https://www.espncricinfo.com/cricketers/mohammad-nawaz-348148,c Ervine b Evans,22,18,1,1,122.22
+Zimbabwe Vs Pakistan,Pakistan,8,Mohammad Wasim,https://www.espncricinfo.com/cricketers/mohammad-wasim-1185538,not out,12,13,2,0,92.30
+Zimbabwe Vs Pakistan,Pakistan,9,Shaheen Shah Afridi,https://www.espncricinfo.com/cricketers/shaheen-shah-afridi-1072470,run out (Sikandar Raza/†Chakabva),1,1,0,0,100.00
+Netherlands Vs India,Netherlands,1,KL Rahul,https://www.espncricinfo.com/cricketers/kl-rahul-422108,lbw b van Meekeren,9,12,1,0,75.00
+Netherlands Vs India,Netherlands,2,Rohit Sharma (c),https://www.espncricinfo.com/cricketers/rohit-sharma-34102,c Ackermann b Klaassen,53,39,4,3,135.89
+Netherlands Vs India,Netherlands,3,Virat Kohli,https://www.espncricinfo.com/cricketers/virat-kohli-253802,not out,62,44,3,2,140.90
+Netherlands Vs India,Netherlands,4,Suryakumar Yadav,https://www.espncricinfo.com/cricketers/suryakumar-yadav-446507,not out,51,25,7,1,204.00
+Netherlands Vs India,India,1,Vikramjit Singh,https://www.espncricinfo.com/cricketers/vikramjit-singh-1153767,b Kumar,1,9,0,0,11.11
+Netherlands Vs India,India,2,Max O'Dowd,https://www.espncricinfo.com/cricketers/max-o-dowd-643197,b Patel,16,10,3,0,160.00
+Netherlands Vs India,India,3,Bas de Leede,https://www.espncricinfo.com/cricketers/bas-de-leede-1036191,c Pandya b Patel,16,23,0,0,69.56
+Netherlands Vs India,India,4,Colin Ackermann,https://www.espncricinfo.com/cricketers/colin-ackermann-379774,c Patel b Ashwin,17,21,1,0,80.95
+Netherlands Vs India,India,5,Tom Cooper,https://www.espncricinfo.com/cricketers/tom-cooper-219885,c sub (DJ Hooda) b Ashwin,9,12,0,0,75.00
+Netherlands Vs India,India,6,Scott Edwards (c)†,https://www.espncricinfo.com/cricketers/scott-edwards-1127317,c sub (DJ Hooda) b Kumar,5,8,0,0,62.50
+Netherlands Vs India,India,7,Tim Pringle,https://www.espncricinfo.com/cricketers/tim-pringle-1193548,c Kohli b Mohammed Shami,20,15,1,1,133.33
+Netherlands Vs India,India,8,Logan van Beek,https://www.espncricinfo.com/cricketers/logan-van-beek-440522,c †Karthik b Arshdeep Singh,3,5,0,0,60.00
+Netherlands Vs India,India,9,Shariz Ahmad,https://www.espncricinfo.com/cricketers/shariz-ahmad-1278252,not out,16,11,2,0,145.45
+Netherlands Vs India,India,10,Fred Klaassen,https://www.espncricinfo.com/cricketers/fred-klaassen-1104703,lbw b Arshdeep Singh,0,1,0,0,0.00
+Netherlands Vs India,India,11,Paul van Meekeren,https://www.espncricinfo.com/cricketers/paul-van-meekeren-348109,not out,14,6,3,0,233.33
+South Africa Vs Bangladesh,South Africa,1,Temba Bavuma (c),https://www.espncricinfo.com/cricketers/temba-bavuma-372116,c †Nurul Hasan b Taskin Ahmed,2,6,0,0,33.33
+South Africa Vs Bangladesh,South Africa,2,Quinton de Kock †,https://www.espncricinfo.com/cricketers/quinton-de-kock-379143,c Soumya Sarkar b Afif Hossain,63,38,7,3,165.78
+South Africa Vs Bangladesh,South Africa,3,Rilee Rossouw,https://www.espncricinfo.com/cricketers/rilee-rossouw-318845,c Litton Das b Shakib Al Hasan,109,56,7,8,194.64
+South Africa Vs Bangladesh,South Africa,4,Tristan Stubbs,https://www.espncricinfo.com/cricketers/tristan-stubbs-595978,c Litton Das b Shakib Al Hasan,7,7,1,0,100.00
+South Africa Vs Bangladesh,South Africa,5,Aiden Markram,https://www.espncricinfo.com/cricketers/aiden-markram-600498,c Soumya Sarkar b Hasan Mahmud,10,11,1,0,90.90
+South Africa Vs Bangladesh,South Africa,6,David Miller,https://www.espncricinfo.com/cricketers/david-miller-321777,not out,2,4,0,0,50.00
+South Africa Vs Bangladesh,South Africa,7,Wayne Parnell,https://www.espncricinfo.com/cricketers/wayne-parnell-265564,not out,0,2,0,0,0.00
+South Africa Vs Bangladesh,Bangladesh,1,Najmul Hossain Shanto,https://www.espncricinfo.com/cricketers/najmul-hossain-shanto-629058,b Nortje,9,9,1,0,100.00
+South Africa Vs Bangladesh,Bangladesh,2,Soumya Sarkar,https://www.espncricinfo.com/cricketers/soumya-sarkar-436677,c †de Kock b Nortje,15,6,0,2,250.00
+South Africa Vs Bangladesh,Bangladesh,3,Litton Das,https://www.espncricinfo.com/cricketers/litton-das-536936,c Stubbs b Shamsi,34,31,1,1,109.67
+South Africa Vs Bangladesh,Bangladesh,4,Shakib Al Hasan (c),https://www.espncricinfo.com/cricketers/shakib-al-hasan-56143,lbw b Nortje,1,4,0,0,25.00
+South Africa Vs Bangladesh,Bangladesh,5,Afif Hossain,https://www.espncricinfo.com/cricketers/afif-hossain-935995,c Parnell b Rabada,1,5,0,0,20.00
+South Africa Vs Bangladesh,Bangladesh,6,Mehidy Hasan Miraz,https://www.espncricinfo.com/cricketers/mehidy-hasan-miraz-629063,c Markram b Shamsi,11,13,0,0,84.61
+South Africa Vs Bangladesh,Bangladesh,7,Mosaddek Hossain,https://www.espncricinfo.com/cricketers/mosaddek-hossain-550133,st †de Kock b Maharaj,0,3,0,0,0.00
+South Africa Vs Bangladesh,Bangladesh,8,Nurul Hasan †,https://www.espncricinfo.com/cricketers/nurul-hasan-410765,c Nortje b Shamsi,2,6,0,0,33.33
+South Africa Vs Bangladesh,Bangladesh,9,Taskin Ahmed,https://www.espncricinfo.com/cricketers/taskin-ahmed-538506,b Nortje,10,17,1,0,58.82
+South Africa Vs Bangladesh,Bangladesh,10,Hasan Mahmud,https://www.espncricinfo.com/cricketers/hasan-mahmud-926629,run out (Rabada),0,2,0,0,0.00
+South Africa Vs Bangladesh,Bangladesh,11,Mustafizur Rahman,https://www.espncricinfo.com/cricketers/mustafizur-rahman-330902,not out,9,3,0,1,300.00
+Ireland Vs England,Ireland,1,Paul Stirling,https://www.espncricinfo.com/cricketers/paul-stirling-303427,c Curran b Wood,14,8,1,1,175.00
+Ireland Vs England,Ireland,2,Andy Balbirnie (c),https://www.espncricinfo.com/cricketers/andy-balbirnie-303423,c Hales b Livingstone,62,47,5,2,131.91
+Ireland Vs England,Ireland,3,Lorcan Tucker †,https://www.espncricinfo.com/cricketers/lorcan-tucker-928057,run out (Rashid),34,27,3,1,125.92
+Ireland Vs England,Ireland,4,Harry Tector,https://www.espncricinfo.com/cricketers/harry-tector-961407,c †Buttler b Wood,0,2,0,0,0.00
+Ireland Vs England,Ireland,5,Curtis Campher,https://www.espncricinfo.com/cricketers/curtis-campher-595921,c †Buttler b Wood,18,11,3,0,163.63
+Ireland Vs England,Ireland,6,George Dockrell,https://www.espncricinfo.com/cricketers/george-dockrell-348034,b Livingstone,0,1,0,0,0.00
+Ireland Vs England,Ireland,7,Gareth Delany,https://www.espncricinfo.com/cricketers/gareth-delany-1099379,not out,12,10,1,0,120.00
+Ireland Vs England,Ireland,8,Mark Adair,https://www.espncricinfo.com/cricketers/mark-adair-526441,c Curran b Livingstone,4,4,0,0,100.00
+Ireland Vs England,Ireland,9,Barry McCarthy,https://www.espncricinfo.com/cricketers/barry-mccarthy-348059,b Curran,3,3,0,0,100.00
+Ireland Vs England,Ireland,10,Fionn Hand,https://www.espncricinfo.com/cricketers/fionn-hand-1099225,b Curran,1,2,0,0,50.00
+Ireland Vs England,Ireland,11,Josh Little,https://www.espncricinfo.com/cricketers/josh-little-928067,c †Buttler b Stokes,0,1,0,0,0.00
+Ireland Vs England,England,1,Jos Buttler (c)†,https://www.espncricinfo.com/cricketers/jos-buttler-308967,c †Tucker b Little,0,2,0,0,0.00
+Ireland Vs England,England,2,Alex Hales,https://www.espncricinfo.com/cricketers/alex-hales-249866,c Adair b Little,7,5,1,0,140.00
+Ireland Vs England,England,3,Dawid Malan,https://www.espncricinfo.com/cricketers/dawid-malan-236489,c Hand b McCarthy,35,37,2,0,94.59
+Ireland Vs England,England,4,Ben Stokes,https://www.espncricinfo.com/cricketers/ben-stokes-311158,b Hand,6,8,0,0,75.00
+Ireland Vs England,England,5,Harry Brook,https://www.espncricinfo.com/cricketers/harry-brook-911707,c Delany b Dockrell,18,21,1,0,85.71
+Ireland Vs England,England,6,Moeen Ali,https://www.espncricinfo.com/cricketers/moeen-ali-8917,not out,24,12,3,1,200.00
+Ireland Vs England,England,7,Liam Livingstone,https://www.espncricinfo.com/cricketers/liam-livingstone-403902,not out,1,2,0,0,50.00
+Sri Lanka Vs Australia,Sri Lanka,1,Pathum Nissanka,https://www.espncricinfo.com/cricketers/pathum-nissanka-1028655,run out (Marsh/†Wade),40,45,2,0,88.88
+Sri Lanka Vs Australia,Sri Lanka,2,Kusal Mendis †,https://www.espncricinfo.com/cricketers/kusal-mendis-629074,c Marsh b Cummins,5,6,1,0,83.33
+Sri Lanka Vs Australia,Sri Lanka,3,Dhananjaya de Silva,https://www.espncricinfo.com/cricketers/dhananjaya-de-silva-465793,c Warner b Agar,26,23,3,0,113.04
+Sri Lanka Vs Australia,Sri Lanka,4,Charith Asalanka,https://www.espncricinfo.com/cricketers/charith-asalanka-784367,not out,38,25,3,2,152.00
+Sri Lanka Vs Australia,Sri Lanka,5,Bhanuka Rajapaksa,https://www.espncricinfo.com/cricketers/bhanuka-rajapaksa-342619,c Cummins b Starc,7,5,1,0,140.00
+Sri Lanka Vs Australia,Sri Lanka,6,Dasun Shanaka (c),https://www.espncricinfo.com/cricketers/dasun-shanaka-437316,c †Wade b Maxwell,3,5,0,0,60.00
+Sri Lanka Vs Australia,Sri Lanka,7,Wanindu Hasaranga,https://www.espncricinfo.com/cricketers/wanindu-hasaranga-784379,c †Wade b Hazlewood,1,4,0,0,25.00
+Sri Lanka Vs Australia,Sri Lanka,8,Chamika Karunaratne,https://www.espncricinfo.com/cricketers/chamika-karunaratne-623695,not out,14,7,2,0,200.00
+Sri Lanka Vs Australia,Australia,1,David Warner,https://www.espncricinfo.com/cricketers/david-warner-219889,c Shanaka b Theekshana,11,10,0,0,110.00
+Sri Lanka Vs Australia,Australia,2,Aaron Finch (c),https://www.espncricinfo.com/cricketers/aaron-finch-5334,not out,31,42,0,1,73.80
+Sri Lanka Vs Australia,Australia,3,Mitchell Marsh,https://www.espncricinfo.com/cricketers/mitchell-marsh-272450,c Rajapaksa b de Silva,17,17,1,1,100.00
+Sri Lanka Vs Australia,Australia,4,Glenn Maxwell,https://www.espncricinfo.com/cricketers/glenn-maxwell-325026,c sub (KNA Bandara) b Karunaratne,23,12,2,2,191.66
+Sri Lanka Vs Australia,Australia,5,Marcus Stoinis,https://www.espncricinfo.com/cricketers/marcus-stoinis-325012,not out,59,18,4,6,327.77
+Zimbabwe Vs South Africa,Zimbabwe,1,Regis Chakabva †,https://www.espncricinfo.com/cricketers/regis-chakabva-293831,c †de Kock b Ngidi,8,8,0,1,100.00
+Zimbabwe Vs South Africa,Zimbabwe,2,Craig Ervine (c),https://www.espncricinfo.com/cricketers/craig-ervine-55412,c Ngidi b Parnell,2,6,0,0,33.33
+Zimbabwe Vs South Africa,Zimbabwe,3,Sean Williams,https://www.espncricinfo.com/cricketers/sean-williams-55870,run out (Miller),1,1,0,0,100.00
+Zimbabwe Vs South Africa,Zimbabwe,4,Sikandar Raza,https://www.espncricinfo.com/cricketers/sikandar-raza-299572,c †de Kock b Ngidi,0,2,0,0,0.00
+Zimbabwe Vs South Africa,Zimbabwe,5,Wessly Madhevere,https://www.espncricinfo.com/cricketers/wessly-madhevere-938959,not out,35,18,4,1,194.44
+Zimbabwe Vs South Africa,Zimbabwe,6,Milton Shumba,https://www.espncricinfo.com/cricketers/milton-shumba-951781,c †de Kock b Nortje,18,20,2,0,90.00
+Zimbabwe Vs South Africa,South Africa,1,Quinton de Kock †,https://www.espncricinfo.com/cricketers/quinton-de-kock-379143,not out,47,18,8,1,261.11
+Zimbabwe Vs South Africa,South Africa,2,Temba Bavuma (c),https://www.espncricinfo.com/cricketers/temba-bavuma-372116,not out,2,2,0,0,100.00
+Netherlands Vs Bangladesh,Netherlands,1,Najmul Hossain Shanto,https://www.espncricinfo.com/cricketers/najmul-hossain-shanto-629058,c van Beek b Pringle,25,20,4,0,125.00
+Netherlands Vs Bangladesh,Netherlands,2,Soumya Sarkar,https://www.espncricinfo.com/cricketers/soumya-sarkar-436677,c de Leede b van Meekeren,14,14,2,0,100.00
+Netherlands Vs Bangladesh,Netherlands,3,Litton Das,https://www.espncricinfo.com/cricketers/litton-das-536936,c Cooper b van Beek,9,11,0,0,81.81
+Netherlands Vs Bangladesh,Netherlands,4,Shakib Al Hasan (c),https://www.espncricinfo.com/cricketers/shakib-al-hasan-56143,c de Leede b Shariz Ahmad,7,9,0,0,77.77
+Netherlands Vs Bangladesh,Netherlands,5,Afif Hossain,https://www.espncricinfo.com/cricketers/afif-hossain-935995,c †Edwards b de Leede,38,27,2,2,140.74
+Netherlands Vs Bangladesh,Netherlands,6,Yasir Ali,https://www.espncricinfo.com/cricketers/yasir-ali-629059,b van Meekeren,3,5,0,0,60.00
+Netherlands Vs Bangladesh,Netherlands,7,Nurul Hasan †,https://www.espncricinfo.com/cricketers/nurul-hasan-410765,c van Meekeren b de Leede,13,18,0,0,72.22
+Netherlands Vs Bangladesh,Netherlands,8,Mosaddek Hossain,https://www.espncricinfo.com/cricketers/mosaddek-hossain-550133,not out,20,12,2,1,166.66
+Netherlands Vs Bangladesh,Netherlands,9,Taskin Ahmed,https://www.espncricinfo.com/cricketers/taskin-ahmed-538506,c van Beek b Klaassen,0,1,0,0,0.00
+Netherlands Vs Bangladesh,Netherlands,10,Hasan Mahmud,https://www.espncricinfo.com/cricketers/hasan-mahmud-926629,not out,0,3,0,0,0.00
+Netherlands Vs Bangladesh,Bangladesh,1,Vikramjit Singh,https://www.espncricinfo.com/cricketers/vikramjit-singh-1153767,c Yasir Ali b Taskin Ahmed,0,1,0,0,0.00
+Netherlands Vs Bangladesh,Bangladesh,2,Max O'Dowd,https://www.espncricinfo.com/cricketers/max-o-dowd-643197,run out (Afif Hossain/Shakib Al Hasan),8,8,0,1,100.00
+Netherlands Vs Bangladesh,Bangladesh,3,Bas de Leede,https://www.espncricinfo.com/cricketers/bas-de-leede-1036191,c †Nurul Hasan b Taskin Ahmed,0,1,0,0,0.00
+Netherlands Vs Bangladesh,Bangladesh,4,Colin Ackermann,https://www.espncricinfo.com/cricketers/colin-ackermann-379774,c Mosaddek Hossain b Taskin Ahmed,62,48,6,2,129.16
+Netherlands Vs Bangladesh,Bangladesh,5,Tom Cooper,https://www.espncricinfo.com/cricketers/tom-cooper-219885,run out (Najmul Hossain Shanto/†Nurul Hasan),0,0,0,0,-
+Netherlands Vs Bangladesh,Bangladesh,6,Scott Edwards (c)†,https://www.espncricinfo.com/cricketers/scott-edwards-1127317,c Hasan Mahmud b Shakib Al Hasan,16,24,1,0,66.66
+Netherlands Vs Bangladesh,Bangladesh,7,Tim Pringle,https://www.espncricinfo.com/cricketers/tim-pringle-1193548,b Hasan Mahmud,1,6,0,0,16.66
+Netherlands Vs Bangladesh,Bangladesh,8,Logan van Beek,https://www.espncricinfo.com/cricketers/logan-van-beek-440522,c Taskin Ahmed b Hasan Mahmud,2,5,0,0,40.00
+Netherlands Vs Bangladesh,Bangladesh,9,Shariz Ahmad,https://www.espncricinfo.com/cricketers/shariz-ahmad-1278252,c Hasan Mahmud b Taskin Ahmed,9,8,1,0,112.50
+Netherlands Vs Bangladesh,Bangladesh,10,Fred Klaassen,https://www.espncricinfo.com/cricketers/fred-klaassen-1104703,not out,7,6,0,0,116.66
+Netherlands Vs Bangladesh,Bangladesh,11,Paul van Meekeren,https://www.espncricinfo.com/cricketers/paul-van-meekeren-348109,c Litton Das b Soumya Sarkar,24,14,3,1,171.42
+Pakistan Vs India,Pakistan,1,Mohammad Rizwan †,https://www.espncricinfo.com/cricketers/mohammad-rizwan-323389,c Kumar b Arshdeep Singh,4,12,1,0,33.33
+Pakistan Vs India,Pakistan,2,Babar Azam (c),https://www.espncricinfo.com/cricketers/babar-azam-348144,lbw b Arshdeep Singh,0,1,0,0,0.00
+Pakistan Vs India,Pakistan,3,Shan Masood,https://www.espncricinfo.com/cricketers/shan-masood-233901,not out,52,42,5,0,123.80
+Pakistan Vs India,Pakistan,4,Iftikhar Ahmed,https://www.espncricinfo.com/cricketers/iftikhar-ahmed-480603,lbw b Mohammed Shami,51,34,2,4,150.00
+Pakistan Vs India,Pakistan,5,Shadab Khan,https://www.espncricinfo.com/cricketers/shadab-khan-922943,c Yadav b Pandya,5,6,1,0,83.33
+Pakistan Vs India,Pakistan,6,Haider Ali,https://www.espncricinfo.com/cricketers/haider-ali-1168651,c Yadav b Pandya,2,4,0,0,50.00
+Pakistan Vs India,Pakistan,7,Mohammad Nawaz,https://www.espncricinfo.com/cricketers/mohammad-nawaz-348148,c †Karthik b Pandya,9,6,2,0,150.00
+Pakistan Vs India,Pakistan,8,Asif Ali,https://www.espncricinfo.com/cricketers/asif-ali-494230,c †Karthik b Arshdeep Singh,2,3,0,0,66.66
+Pakistan Vs India,Pakistan,9,Shaheen Shah Afridi,https://www.espncricinfo.com/cricketers/shaheen-shah-afridi-1072470,c & b Kumar,16,8,1,1,200.00
+Pakistan Vs India,Pakistan,10,Haris Rauf,https://www.espncricinfo.com/cricketers/haris-rauf-1161606,not out,6,4,0,1,150.00
+Pakistan Vs India,India,1,KL Rahul,https://www.espncricinfo.com/cricketers/kl-rahul-422108,b Naseem Shah,4,8,0,0,50.00
+Pakistan Vs India,India,2,Rohit Sharma (c),https://www.espncricinfo.com/cricketers/rohit-sharma-34102,c Iftikhar Ahmed b Haris Rauf,4,7,0,0,57.14
+Pakistan Vs India,India,3,Virat Kohli,https://www.espncricinfo.com/cricketers/virat-kohli-253802,not out,82,53,6,4,154.71
+Pakistan Vs India,India,4,Suryakumar Yadav,https://www.espncricinfo.com/cricketers/suryakumar-yadav-446507,c †Mohammad Rizwan b Haris Rauf,15,10,2,0,150.00
+Pakistan Vs India,India,5,Axar Patel,https://www.espncricinfo.com/cricketers/axar-patel-554691,run out (Babar Azam/†Mohammad Rizwan),2,3,0,0,66.66
+Pakistan Vs India,India,6,Hardik Pandya,https://www.espncricinfo.com/cricketers/hardik-pandya-625371,c Babar Azam b Mohammad Nawaz,40,37,1,2,108.10
+Pakistan Vs India,India,7,Dinesh Karthik †,https://www.espncricinfo.com/cricketers/dinesh-karthik-30045,st †Mohammad Rizwan b Mohammad Nawaz,1,2,0,0,50.00
+Pakistan Vs India,India,8,Ravichandran Ashwin,https://www.espncricinfo.com/cricketers/ravichandran-ashwin-26421,not out,1,1,0,0,100.00
+Sri Lanka Vs Ireland,Sri Lanka,1,Paul Stirling,https://www.espncricinfo.com/cricketers/paul-stirling-303427,c Rajapaksa b de Silva,34,25,4,1,136.00
+Sri Lanka Vs Ireland,Sri Lanka,2,Andy Balbirnie (c),https://www.espncricinfo.com/cricketers/andy-balbirnie-303423,b Kumara,1,5,0,0,20.00
+Sri Lanka Vs Ireland,Sri Lanka,3,Lorcan Tucker †,https://www.espncricinfo.com/cricketers/lorcan-tucker-928057,b Theekshana,10,11,1,0,90.90
+Sri Lanka Vs Ireland,Sri Lanka,4,Harry Tector,https://www.espncricinfo.com/cricketers/harry-tector-961407,c Shanaka b Fernando,45,42,2,1,107.14
+Sri Lanka Vs Ireland,Sri Lanka,5,Curtis Campher,https://www.espncricinfo.com/cricketers/curtis-campher-595921,c Asalanka b Karunaratne,2,4,0,0,50.00
+Sri Lanka Vs Ireland,Sri Lanka,6,George Dockrell,https://www.espncricinfo.com/cricketers/george-dockrell-348034,b Theekshana,14,16,0,0,87.50
+Sri Lanka Vs Ireland,Sri Lanka,7,Gareth Delany,https://www.espncricinfo.com/cricketers/gareth-delany-1099379,c Karunaratne b Hasaranga,9,6,1,0,150.00
+Sri Lanka Vs Ireland,Sri Lanka,8,Mark Adair,https://www.espncricinfo.com/cricketers/mark-adair-526441,c Karunaratne b Hasaranga,0,1,0,0,0.00
+Sri Lanka Vs Ireland,Sri Lanka,9,Simi Singh,https://www.espncricinfo.com/cricketers/simi-singh-1005257,not out,7,8,1,0,87.50
+Sri Lanka Vs Ireland,Sri Lanka,10,Barry McCarthy,https://www.espncricinfo.com/cricketers/barry-mccarthy-348059,not out,2,2,0,0,100.00
+Sri Lanka Vs Ireland,Ireland,1,Kusal Mendis †,https://www.espncricinfo.com/cricketers/kusal-mendis-629074,not out,68,43,5,3,158.13
+Sri Lanka Vs Ireland,Ireland,2,Dhananjaya de Silva,https://www.espncricinfo.com/cricketers/dhananjaya-de-silva-465793,c †Tucker b Delany,31,25,2,1,124.00
+Sri Lanka Vs Ireland,Ireland,3,Charith Asalanka,https://www.espncricinfo.com/cricketers/charith-asalanka-784367,not out,31,22,2,0,140.90
+England Vs Afghanistan,England,1,Hazratullah Zazai,https://www.espncricinfo.com/cricketers/hazratullah-zazai-793457,c Livingstone b Stokes,7,17,1,0,41.17
+England Vs Afghanistan,England,2,Rahmanullah Gurbaz †,https://www.espncricinfo.com/cricketers/rahmanullah-gurbaz-974087,c †Buttler b Wood,10,9,0,1,111.11
+England Vs Afghanistan,England,3,Ibrahim Zadran,https://www.espncricinfo.com/cricketers/ibrahim-zadran-921509,c Ali b Curran,32,32,3,1,100.00
+England Vs Afghanistan,England,4,Usman Ghani,https://www.espncricinfo.com/cricketers/usman-ghani-711559,c Livingstone b Curran,30,30,3,0,100.00
+England Vs Afghanistan,England,5,Najibullah Zadran,https://www.espncricinfo.com/cricketers/najibullah-zadran-524049,c Rashid b Stokes,13,11,0,1,118.18
+England Vs Afghanistan,England,6,Mohammad Nabi (c),https://www.espncricinfo.com/cricketers/mohammad-nabi-25913,c †Buttler b Wood,3,5,0,0,60.00
+England Vs Afghanistan,England,7,Azmatullah Omarzai,https://www.espncricinfo.com/cricketers/azmatullah-omarzai-819429,c Stokes b Curran,8,6,1,0,133.33
+England Vs Afghanistan,England,8,Rashid Khan,https://www.espncricinfo.com/cricketers/rashid-khan-793463,c Hales b Curran,0,1,0,0,0.00
+England Vs Afghanistan,England,9,Mujeeb Ur Rahman,https://www.espncricinfo.com/cricketers/mujeeb-ur-rahman-974109,c & b Woakes,0,1,0,0,0.00
+England Vs Afghanistan,England,10,Fareed Ahmad,https://www.espncricinfo.com/cricketers/fareed-ahmad-568136,not out,2,4,0,0,50.00
+England Vs Afghanistan,England,11,Fazalhaq Farooqi,https://www.espncricinfo.com/cricketers/fazalhaq-farooqi-974175,c Malan b Curran,0,2,0,0,0.00
+England Vs Afghanistan,Afghanistan,1,Jos Buttler (c)†,https://www.espncricinfo.com/cricketers/jos-buttler-308967,c Mujeeb Ur Rahman b Fazalhaq Farooqi,18,18,3,0,100.00
+England Vs Afghanistan,Afghanistan,2,Alex Hales,https://www.espncricinfo.com/cricketers/alex-hales-249866,c Fazalhaq Farooqi b Fareed Ahmad,19,20,0,1,95.00
+England Vs Afghanistan,Afghanistan,3,Dawid Malan,https://www.espncricinfo.com/cricketers/dawid-malan-236489,c Mohammad Nabi b Mujeeb Ur Rahman,18,30,0,0,60.00
+England Vs Afghanistan,Afghanistan,4,Ben Stokes,https://www.espncricinfo.com/cricketers/ben-stokes-311158,b Mohammad Nabi,2,4,0,0,50.00
+England Vs Afghanistan,Afghanistan,5,Liam Livingstone,https://www.espncricinfo.com/cricketers/liam-livingstone-403902,not out,29,21,3,0,138.09
+England Vs Afghanistan,Afghanistan,6,Harry Brook,https://www.espncricinfo.com/cricketers/harry-brook-911707,c Ibrahim Zadran b Rashid Khan,7,6,0,0,116.66
+England Vs Afghanistan,Afghanistan,7,Moeen Ali,https://www.espncricinfo.com/cricketers/moeen-ali-8917,not out,8,10,0,0,80.00
+New Zealand Vs Australia,New Zealand,1,Finn Allen,https://www.espncricinfo.com/cricketers/finn-allen-959759,b Hazlewood,42,16,5,3,262.50
+New Zealand Vs Australia,New Zealand,2,Devon Conway †,https://www.espncricinfo.com/cricketers/devon-conway-379140,not out,92,58,7,2,158.62
+New Zealand Vs Australia,New Zealand,3,Kane Williamson (c),https://www.espncricinfo.com/cricketers/kane-williamson-277906,lbw b Zampa,23,23,1,1,100.00
+New Zealand Vs Australia,New Zealand,4,Glenn Phillips,https://www.espncricinfo.com/cricketers/glenn-phillips-823509,c & b Hazlewood,12,10,2,0,120.00
+New Zealand Vs Australia,New Zealand,5,James Neesham,https://www.espncricinfo.com/cricketers/james-neesham-355269,not out,26,13,0,2,200.00
+New Zealand Vs Australia,Australia,1,David Warner,https://www.espncricinfo.com/cricketers/david-warner-219889,b Southee,5,6,1,0,83.33
+New Zealand Vs Australia,Australia,2,Aaron Finch (c),https://www.espncricinfo.com/cricketers/aaron-finch-5334,c Williamson b Santner,13,11,1,1,118.18
+New Zealand Vs Australia,Australia,3,Mitchell Marsh,https://www.espncricinfo.com/cricketers/mitchell-marsh-272450,c Neesham b Southee,16,12,2,1,133.33
+New Zealand Vs Australia,Australia,4,Glenn Maxwell,https://www.espncricinfo.com/cricketers/glenn-maxwell-325026,b Sodhi,28,20,3,1,140.00
+New Zealand Vs Australia,Australia,5,Marcus Stoinis,https://www.espncricinfo.com/cricketers/marcus-stoinis-325012,c Phillips b Santner,7,14,0,0,50.00
+New Zealand Vs Australia,Australia,6,Tim David,https://www.espncricinfo.com/cricketers/tim-david-892749,c Neesham b Santner,11,8,0,1,137.50
+New Zealand Vs Australia,Australia,7,Matthew Wade †,https://www.espncricinfo.com/cricketers/matthew-wade-230193,c †Conway b Ferguson,2,4,0,0,50.00
+New Zealand Vs Australia,Australia,8,Pat Cummins,https://www.espncricinfo.com/cricketers/pat-cummins-489889,c †Conway b Southee,21,18,2,1,116.66
+New Zealand Vs Australia,Australia,9,Mitchell Starc,https://www.espncricinfo.com/cricketers/mitchell-starc-311592,b Boult,4,7,0,0,57.14
+New Zealand Vs Australia,Australia,10,Adam Zampa,https://www.espncricinfo.com/cricketers/adam-zampa-379504,b Boult,0,2,0,0,0.00
+New Zealand Vs Australia,Australia,11,Josh Hazlewood,https://www.espncricinfo.com/cricketers/josh-hazlewood-288284,not out,1,1,0,0,100.00
+Zimbabwe Vs Scotland,Zimbabwe,1,George Munsey,https://www.espncricinfo.com/cricketers/george-munsey-671805,c Shumba b Ngarava,54,51,7,0,105.88
+Zimbabwe Vs Scotland,Zimbabwe,2,Michael Jones,https://www.espncricinfo.com/cricketers/michael-jones-1093091,c Sikandar Raza b Chatara,4,5,1,0,80.00
+Zimbabwe Vs Scotland,Zimbabwe,3,Matthew Cross †,https://www.espncricinfo.com/cricketers/matthew-cross-417268,c Madhevere b Ngarava,1,7,0,0,14.28
+Zimbabwe Vs Scotland,Zimbabwe,4,Richie Berrington (c),https://www.espncricinfo.com/cricketers/richie-berrington-25490,c Shumba b Sikandar Raza,13,15,0,0,86.66
+Zimbabwe Vs Scotland,Zimbabwe,5,Calum MacLeod,https://www.espncricinfo.com/cricketers/calum-macleod-232435,c Jongwe b Chatara,25,26,1,0,96.15
+Zimbabwe Vs Scotland,Zimbabwe,6,Michael Leask,https://www.espncricinfo.com/cricketers/michael-leask-414966,b Muzarabani,12,9,2,0,133.33
+Zimbabwe Vs Scotland,Zimbabwe,7,Chris Greaves,https://www.espncricinfo.com/cricketers/chris-greaves-873199,not out,3,7,0,0,42.85
+Zimbabwe Vs Scotland,Zimbabwe,8,Josh Davey,https://www.espncricinfo.com/cricketers/josh-davey-407265,not out,4,3,0,0,133.33
+Zimbabwe Vs Scotland,Scotland,1,Regis Chakabva †,https://www.espncricinfo.com/cricketers/regis-chakabva-293831,lbw b Wheal,4,3,1,0,133.33
+Zimbabwe Vs Scotland,Scotland,2,Craig Ervine (c),https://www.espncricinfo.com/cricketers/craig-ervine-55412,c MacLeod b Watt,58,54,6,0,107.40
+Zimbabwe Vs Scotland,Scotland,3,Wessly Madhevere,https://www.espncricinfo.com/cricketers/wessly-madhevere-938959,b Davey,0,5,0,0,0.00
+Zimbabwe Vs Scotland,Scotland,4,Sean Williams,https://www.espncricinfo.com/cricketers/sean-williams-55870,c Wheal b Leask,7,12,0,0,58.33
+Zimbabwe Vs Scotland,Scotland,5,Sikandar Raza,https://www.espncricinfo.com/cricketers/sikandar-raza-299572,c †Cross b Davey,40,23,3,2,173.91
+Zimbabwe Vs Scotland,Scotland,6,Milton Shumba,https://www.espncricinfo.com/cricketers/milton-shumba-951781,not out,11,11,0,0,100.00
+Zimbabwe Vs Scotland,Scotland,7,Ryan Burl,https://www.espncricinfo.com/cricketers/ryan-burl-495964,not out,9,5,1,0,180.00
+West Indies Vs Ireland,West Indies,1,Kyle Mayers,https://www.espncricinfo.com/cricketers/kyle-mayers-348056,c Tector b McCarthy,1,5,0,0,20.00
+West Indies Vs Ireland,West Indies,2,Johnson Charles,https://www.espncricinfo.com/cricketers/johnson-charles-333066,c Campher b Simi Singh,24,18,3,1,133.33
+West Indies Vs Ireland,West Indies,3,Evin Lewis,https://www.espncricinfo.com/cricketers/evin-lewis-431901,c Adair b Delany,13,18,0,0,72.22
+West Indies Vs Ireland,West Indies,4,Brandon King,https://www.espncricinfo.com/cricketers/brandon-king-670035,not out,62,48,6,1,129.16
+West Indies Vs Ireland,West Indies,5,Nicholas Pooran (c)†,https://www.espncricinfo.com/cricketers/nicholas-pooran-604302,c Tector b Delany,13,11,0,1,118.18
+West Indies Vs Ireland,West Indies,6,Rovman Powell,https://www.espncricinfo.com/cricketers/rovman-powell-820351,c Tector b Delany,6,8,1,0,75.00
+West Indies Vs Ireland,West Indies,7,Odean Smith,https://www.espncricinfo.com/cricketers/odean-smith-820691,not out,19,12,1,2,158.33
+West Indies Vs Ireland,Ireland,1,Paul Stirling,https://www.espncricinfo.com/cricketers/paul-stirling-303427,not out,66,48,6,2,137.50
+West Indies Vs Ireland,Ireland,2,Andy Balbirnie (c),https://www.espncricinfo.com/cricketers/andy-balbirnie-303423,c Mayers b Hosein,37,23,3,3,160.86
+West Indies Vs Ireland,Ireland,3,Lorcan Tucker †,https://www.espncricinfo.com/cricketers/lorcan-tucker-928057,not out,45,35,2,2,128.57
+U.A.E. Vs Namibia,U.A.E.,1,Muhammad Waseem,https://www.espncricinfo.com/cricketers/muhammad-waseem-1241277,c Trumpelmann b Shikongo,50,41,1,3,121.95
+U.A.E. Vs Namibia,U.A.E.,2,Vriitya Aravind †,https://www.espncricinfo.com/cricketers/vriitya-aravind-1178586,c van Lingen b Scholtz,21,32,2,0,65.62
+U.A.E. Vs Namibia,U.A.E.,3,CP Rizwan (c),https://www.espncricinfo.com/cricketers/cp-rizwan-474760,not out,43,29,3,1,148.27
+U.A.E. Vs Namibia,U.A.E.,4,Alishan Sharafu,https://www.espncricinfo.com/cricketers/alishan-sharafu-1161038,c †Green b Wiese,4,4,0,0,100.00
+U.A.E. Vs Namibia,U.A.E.,5,Basil Hameed,https://www.espncricinfo.com/cricketers/basil-hameed-1209110,not out,25,14,2,2,178.57
+U.A.E. Vs Namibia,Namibia,1,Michael van Lingen,https://www.espncricinfo.com/cricketers/michael-van-lingen-833777,c Sharafu b Basil Hameed,10,8,1,0,125.00
+U.A.E. Vs Namibia,Namibia,2,Stephan Baard,https://www.espncricinfo.com/cricketers/stephan-baard-437927,c Ahmed Raza b Junaid Siddique,4,6,1,0,66.66
+U.A.E. Vs Namibia,Namibia,3,Jan Nicol Loftie-Eaton,https://www.espncricinfo.com/cricketers/jan-nicol-loftie-eaton-1071473,lbw b Basil Hameed,1,6,0,0,16.66
+U.A.E. Vs Namibia,Namibia,4,Gerhard Erasmus (c),https://www.espncricinfo.com/cricketers/gerhard-erasmus-519070,b Meiyappan,16,18,2,0,88.88
+U.A.E. Vs Namibia,Namibia,5,Jan Frylinck,https://www.espncricinfo.com/cricketers/jan-frylinck-482478,b Zahoor Khan,14,17,1,0,82.35
+U.A.E. Vs Namibia,Namibia,6,JJ Smit,https://www.espncricinfo.com/cricketers/jj-smit-553821,run out (Meiyappan/Ahmed Raza),3,3,0,0,100.00
+U.A.E. Vs Namibia,Namibia,7,David Wiese,https://www.espncricinfo.com/cricketers/david-wiese-221140,c Sharafu b Muhammad Waseem,55,36,3,3,152.77
+U.A.E. Vs Namibia,Namibia,8,Zane Green †,https://www.espncricinfo.com/cricketers/zane-green-596664,b Zahoor Khan,2,3,0,0,66.66
+U.A.E. Vs Namibia,Namibia,9,Ruben Trumpelmann,https://www.espncricinfo.com/cricketers/ruben-trumpelmann-698317,not out,25,24,1,1,104.16
+U.A.E. Vs Namibia,Namibia,10,Bernard Scholtz,https://www.espncricinfo.com/cricketers/bernard-scholtz-330223,not out,1,1,0,0,100.00
+Sri Lanka Vs Netherlands,Sri Lanka,1,Pathum Nissanka,https://www.espncricinfo.com/cricketers/pathum-nissanka-1028655,b van Meekeren,14,21,0,1,66.66
+Sri Lanka Vs Netherlands,Sri Lanka,2,Kusal Mendis †,https://www.espncricinfo.com/cricketers/kusal-mendis-629074,c sub (LV van Beek) b van der Gugten,79,44,5,5,179.54
+Sri Lanka Vs Netherlands,Sri Lanka,3,Dhananjaya de Silva,https://www.espncricinfo.com/cricketers/dhananjaya-de-silva-465793,lbw b van Meekeren,0,1,0,0,0.00
+Sri Lanka Vs Netherlands,Sri Lanka,4,Charith Asalanka,https://www.espncricinfo.com/cricketers/charith-asalanka-784367,c †Edwards b de Leede,31,30,3,0,103.33
+Sri Lanka Vs Netherlands,Sri Lanka,5,Bhanuka Rajapaksa,https://www.espncricinfo.com/cricketers/bhanuka-rajapaksa-342619,c Pringle b de Leede,19,13,2,0,146.15
+Sri Lanka Vs Netherlands,Sri Lanka,6,Dasun Shanaka (c),https://www.espncricinfo.com/cricketers/dasun-shanaka-437316,c Ackermann b Klaassen,8,5,0,1,160.00
+Sri Lanka Vs Netherlands,Sri Lanka,7,Wanindu Hasaranga,https://www.espncricinfo.com/cricketers/wanindu-hasaranga-784379,not out,5,4,0,0,125.00
+Sri Lanka Vs Netherlands,Sri Lanka,8,Chamika Karunaratne,https://www.espncricinfo.com/cricketers/chamika-karunaratne-623695,not out,2,2,0,0,100.00
+Sri Lanka Vs Netherlands,Netherlands,1,Max O'Dowd,https://www.espncricinfo.com/cricketers/max-o-dowd-643197,not out,71,53,6,3,133.96
+Sri Lanka Vs Netherlands,Netherlands,2,Vikramjit Singh,https://www.espncricinfo.com/cricketers/vikramjit-singh-1153767,c Shanaka b Theekshana,7,14,0,0,50.00
+Sri Lanka Vs Netherlands,Netherlands,3,Bas de Leede,https://www.espncricinfo.com/cricketers/bas-de-leede-1036191,c †Mendis b Kumara,14,10,1,1,140.00
+Sri Lanka Vs Netherlands,Netherlands,4,Colin Ackermann,https://www.espncricinfo.com/cricketers/colin-ackermann-379774,c & b Hasaranga,0,1,0,0,0.00
+Sri Lanka Vs Netherlands,Netherlands,5,Tom Cooper,https://www.espncricinfo.com/cricketers/tom-cooper-219885,b Theekshana,16,19,2,0,84.21
+Sri Lanka Vs Netherlands,Netherlands,6,Scott Edwards (c)†,https://www.espncricinfo.com/cricketers/scott-edwards-1127317,b Fernando,21,15,3,0,140.00
+Sri Lanka Vs Netherlands,Netherlands,7,Tim Pringle,https://www.espncricinfo.com/cricketers/tim-pringle-1193548,run out (de Silva),2,4,0,0,50.00
+Sri Lanka Vs Netherlands,Netherlands,8,Timm van der Gugten,https://www.espncricinfo.com/cricketers/timm-van-der-gugten-333782,b Hasaranga,0,1,0,0,0.00
+Sri Lanka Vs Netherlands,Netherlands,9,Fred Klaassen,https://www.espncricinfo.com/cricketers/fred-klaassen-1104703,b Hasaranga,3,3,0,0,100.00
+Sri Lanka Vs Netherlands,Netherlands,10,Paul van Meekeren,https://www.espncricinfo.com/cricketers/paul-van-meekeren-348109,run out (Shanaka),0,0,0,0,-
+Sri Lanka Vs Netherlands,Netherlands,11,Roelof van der Merwe,https://www.espncricinfo.com/cricketers/roelof-van-der-merwe-47850,not out,0,1,0,0,0.00
+Zimbabwe Vs West Indies,Zimbabwe,1,Kyle Mayers,https://www.espncricinfo.com/cricketers/kyle-mayers-348056,c †Chakabva b Muzarabani,13,12,2,0,108.33
+Zimbabwe Vs West Indies,Zimbabwe,2,Johnson Charles,https://www.espncricinfo.com/cricketers/johnson-charles-333066,run out (Munyonga/Williams),45,36,3,2,125.00
+Zimbabwe Vs West Indies,Zimbabwe,3,Evin Lewis,https://www.espncricinfo.com/cricketers/evin-lewis-431901,c Shumba b Sikandar Raza,15,18,1,0,83.33
+Zimbabwe Vs West Indies,Zimbabwe,4,Nicholas Pooran (c)†,https://www.espncricinfo.com/cricketers/nicholas-pooran-604302,c & b Williams,7,9,0,0,77.77
+Zimbabwe Vs West Indies,Zimbabwe,5,Rovman Powell,https://www.espncricinfo.com/cricketers/rovman-powell-820351,c Ngarava b Muzarabani,28,21,1,2,133.33
+Zimbabwe Vs West Indies,Zimbabwe,6,Shamarh Brooks,https://www.espncricinfo.com/cricketers/shamarh-brooks-230555,lbw b Sikandar Raza,0,3,0,0,0.00
+Zimbabwe Vs West Indies,Zimbabwe,7,Jason Holder,https://www.espncricinfo.com/cricketers/jason-holder-391485,c & b Sikandar Raza,4,3,0,0,133.33
+Zimbabwe Vs West Indies,Zimbabwe,8,Akeal Hosein,https://www.espncricinfo.com/cricketers/akeal-hosein-530812,not out,23,18,2,0,127.77
+Zimbabwe Vs West Indies,Zimbabwe,9,Odean Smith,https://www.espncricinfo.com/cricketers/odean-smith-820691,not out,1,2,0,0,50.00
+Zimbabwe Vs West Indies,West Indies,1,Wessly Madhevere,https://www.espncricinfo.com/cricketers/wessly-madhevere-938959,c Lewis b Holder,27,19,3,1,142.10
+Zimbabwe Vs West Indies,West Indies,2,Regis Chakabva (c)†,https://www.espncricinfo.com/cricketers/regis-chakabva-293831,b Joseph,13,9,3,0,144.44
+Zimbabwe Vs West Indies,West Indies,3,Tony Munyonga,https://www.espncricinfo.com/cricketers/tony-munyonga-1122853,b Joseph,2,6,0,0,33.33
+Zimbabwe Vs West Indies,West Indies,4,Sean Williams,https://www.espncricinfo.com/cricketers/sean-williams-55870,c †Pooran b McCoy,1,2,0,0,50.00
+Zimbabwe Vs West Indies,West Indies,5,Sikandar Raza,https://www.espncricinfo.com/cricketers/sikandar-raza-299572,c Powell b Smith,14,8,1,1,175.00
+Zimbabwe Vs West Indies,West Indies,6,Milton Shumba,https://www.espncricinfo.com/cricketers/milton-shumba-951781,c Brooks b Hosein,2,9,0,0,22.22
+Zimbabwe Vs West Indies,West Indies,7,Ryan Burl,https://www.espncricinfo.com/cricketers/ryan-burl-495964,lbw b Holder,17,19,3,0,89.47
+Zimbabwe Vs West Indies,West Indies,8,Luke Jongwe,https://www.espncricinfo.com/cricketers/luke-jongwe-541224,b Joseph,29,22,3,1,131.81
+Zimbabwe Vs West Indies,West Indies,9,Richard Ngarava,https://www.espncricinfo.com/cricketers/richard-ngarava-806241,b Joseph,2,6,0,0,33.33
+Zimbabwe Vs West Indies,West Indies,10,Tendai Chatara,https://www.espncricinfo.com/cricketers/tendai-chatara-425639,b Holder,3,8,0,0,37.50
+Zimbabwe Vs West Indies,West Indies,11,Blessing Muzarabani,https://www.espncricinfo.com/cricketers/blessing-muzarabani-827051,not out,1,4,0,0,25.00
+Scotland Vs Ireland,Scotland,1,George Munsey,https://www.espncricinfo.com/cricketers/george-munsey-671805,lbw b Adair,1,2,0,0,50.00
+Scotland Vs Ireland,Scotland,2,Michael Jones,https://www.espncricinfo.com/cricketers/michael-jones-1093091,c Adair b Little,86,55,6,4,156.36
+Scotland Vs Ireland,Scotland,3,Matthew Cross †,https://www.espncricinfo.com/cricketers/matthew-cross-417268,c McCarthy b Campher,28,21,5,0,133.33
+Scotland Vs Ireland,Scotland,4,Richie Berrington (c),https://www.espncricinfo.com/cricketers/richie-berrington-25490,c Dockrell b Campher,37,27,3,1,137.03
+Scotland Vs Ireland,Scotland,5,Michael Leask,https://www.espncricinfo.com/cricketers/michael-leask-414966,not out,17,13,2,0,130.76
+Scotland Vs Ireland,Scotland,6,Calum MacLeod,https://www.espncricinfo.com/cricketers/calum-macleod-232435,run out (†Tucker),0,3,0,0,0.00
+Scotland Vs Ireland,Ireland,1,Paul Stirling,https://www.espncricinfo.com/cricketers/paul-stirling-303427,c †Cross b Sharif,8,10,1,0,80.00
+Scotland Vs Ireland,Ireland,2,Andy Balbirnie (c),https://www.espncricinfo.com/cricketers/andy-balbirnie-303423,c Jones b Wheal,14,12,2,0,116.66
+Scotland Vs Ireland,Ireland,3,Lorcan Tucker †,https://www.espncricinfo.com/cricketers/lorcan-tucker-928057,c Davey b Watt,20,17,2,0,117.64
+Scotland Vs Ireland,Ireland,4,Harry Tector,https://www.espncricinfo.com/cricketers/harry-tector-961407,c Greaves b Leask,14,16,1,0,87.50
+Scotland Vs Ireland,Ireland,5,Curtis Campher,https://www.espncricinfo.com/cricketers/curtis-campher-595921,not out,72,32,7,2,225.00
+Scotland Vs Ireland,Ireland,6,George Dockrell,https://www.espncricinfo.com/cricketers/george-dockrell-348034,not out,39,27,4,1,144.44
+U.A.E. Vs Sri Lanka,U.A.E.,1,Pathum Nissanka,https://www.espncricinfo.com/cricketers/pathum-nissanka-1028655,c Basil Hameed b Zahoor Khan,74,60,6,2,123.33
+U.A.E. Vs Sri Lanka,U.A.E.,2,Kusal Mendis †,https://www.espncricinfo.com/cricketers/kusal-mendis-629074,lbw b Aryan Lakra,18,13,2,0,138.46
+U.A.E. Vs Sri Lanka,U.A.E.,3,Dhananjaya de Silva,https://www.espncricinfo.com/cricketers/dhananjaya-de-silva-465793,run out (Muhammad Waseem/Aayan Afzal Khan),33,21,3,1,157.14
+U.A.E. Vs Sri Lanka,U.A.E.,4,Bhanuka Rajapaksa,https://www.espncricinfo.com/cricketers/bhanuka-rajapaksa-342619,c Kashif Daud b Meiyappan,5,8,0,0,62.50
+U.A.E. Vs Sri Lanka,U.A.E.,5,Charith Asalanka,https://www.espncricinfo.com/cricketers/charith-asalanka-784367,c †Aravind b Meiyappan,0,1,0,0,0.00
+U.A.E. Vs Sri Lanka,U.A.E.,6,Dasun Shanaka (c),https://www.espncricinfo.com/cricketers/dasun-shanaka-437316,b Meiyappan,0,1,0,0,0.00
+U.A.E. Vs Sri Lanka,U.A.E.,7,Wanindu Hasaranga,https://www.espncricinfo.com/cricketers/wanindu-hasaranga-784379,c Basil Hameed b Aayan Afzal Khan,2,3,0,0,66.66
+U.A.E. Vs Sri Lanka,U.A.E.,8,Chamika Karunaratne,https://www.espncricinfo.com/cricketers/chamika-karunaratne-623695,c Kashif Daud b Zahoor Khan,8,11,1,0,72.72
+U.A.E. Vs Sri Lanka,U.A.E.,9,Pramod Madushan,https://www.espncricinfo.com/cricketers/pramod-madushan-826689,not out,1,1,0,0,100.00
+U.A.E. Vs Sri Lanka,U.A.E.,10,Dushmantha Chameera,https://www.espncricinfo.com/cricketers/dushmantha-chameera-552152,not out,1,1,0,0,100.00
+U.A.E. Vs Sri Lanka,Sri Lanka,1,Muhammad Waseem,https://www.espncricinfo.com/cricketers/muhammad-waseem-1241277,b Chameera,2,4,0,0,50.00
+U.A.E. Vs Sri Lanka,Sri Lanka,2,Chirag Suri,https://www.espncricinfo.com/cricketers/chirag-suri-534734,b Pramod Madushan,14,19,3,0,73.68
+U.A.E. Vs Sri Lanka,Sri Lanka,3,Aryan Lakra,https://www.espncricinfo.com/cricketers/aryan-lakra-1058989,b Chameera,1,3,0,0,33.33
+U.A.E. Vs Sri Lanka,Sri Lanka,4,CP Rizwan (c),https://www.espncricinfo.com/cricketers/cp-rizwan-474760,c Rajapaksa b Chameera,1,3,0,0,33.33
+U.A.E. Vs Sri Lanka,Sri Lanka,5,Vriitya Aravind †,https://www.espncricinfo.com/cricketers/vriitya-aravind-1178586,lbw b Hasaranga,9,18,1,0,50.00
+U.A.E. Vs Sri Lanka,Sri Lanka,6,Basil Hameed,https://www.espncricinfo.com/cricketers/basil-hameed-1209110,c de Silva b Shanaka,2,6,0,0,33.33
+U.A.E. Vs Sri Lanka,Sri Lanka,7,Aayan Afzal Khan,https://www.espncricinfo.com/cricketers/aayan-afzal-khan-1241265,b Hasaranga,19,21,1,0,90.47
+U.A.E. Vs Sri Lanka,Sri Lanka,8,Kashif Daud,https://www.espncricinfo.com/cricketers/kashif-daud-229225,lbw b Hasaranga,0,4,0,0,0.00
+U.A.E. Vs Sri Lanka,Sri Lanka,9,Karthik Meiyappan,https://www.espncricinfo.com/cricketers/karthik-meiyappan-1058987,st †Mendis b Theekshana,4,8,0,0,50.00
+U.A.E. Vs Sri Lanka,Sri Lanka,10,Junaid Siddique,https://www.espncricinfo.com/cricketers/junaid-siddique-1203754,c Nissanka b Theekshana,18,16,1,1,112.50
+U.A.E. Vs Sri Lanka,Sri Lanka,11,Zahoor Khan,https://www.espncricinfo.com/cricketers/zahoor-khan-384525,not out,1,1,0,0,100.00
+Netherlands Vs Namibia,Netherlands,1,Michael van Lingen,https://www.espncricinfo.com/cricketers/michael-van-lingen-833777,c de Leede b Ackermann,20,19,3,0,105.26
+Netherlands Vs Namibia,Netherlands,2,Divan la Cock,https://www.espncricinfo.com/cricketers/divan-la-cock-1178065,c de Leede b Pringle,0,2,0,0,0.00
+Netherlands Vs Namibia,Netherlands,3,Stephan Baard,https://www.espncricinfo.com/cricketers/stephan-baard-437927,c Klaassen b van der Merwe,19,22,0,0,86.36
+Netherlands Vs Namibia,Netherlands,4,Jan Nicol Loftie-Eaton,https://www.espncricinfo.com/cricketers/jan-nicol-loftie-eaton-1071473,c †Edwards b van Meekeren,0,2,0,0,0.00
+Netherlands Vs Namibia,Netherlands,5,Jan Frylinck,https://www.espncricinfo.com/cricketers/jan-frylinck-482478,c van Meekeren b de Leede,43,48,1,1,89.58
+Netherlands Vs Namibia,Netherlands,6,Gerhard Erasmus (c),https://www.espncricinfo.com/cricketers/gerhard-erasmus-519070,b de Leede,16,18,0,0,88.88
+Netherlands Vs Namibia,Netherlands,7,David Wiese,https://www.espncricinfo.com/cricketers/david-wiese-221140,not out,11,5,1,0,220.00
+Netherlands Vs Namibia,Netherlands,8,JJ Smit,https://www.espncricinfo.com/cricketers/jj-smit-553821,not out,5,4,1,0,125.00
+Netherlands Vs Namibia,Namibia,1,Max O'Dowd,https://www.espncricinfo.com/cricketers/max-o-dowd-643197,run out (Erasmus),35,35,1,1,100.00
+Netherlands Vs Namibia,Namibia,2,Vikramjit Singh,https://www.espncricinfo.com/cricketers/vikramjit-singh-1153767,c Loftie-Eaton b Scholtz,39,31,3,2,125.80
+Netherlands Vs Namibia,Namibia,3,Bas de Leede,https://www.espncricinfo.com/cricketers/bas-de-leede-1036191,not out,30,30,2,0,100.00
+Netherlands Vs Namibia,Namibia,4,Tom Cooper,https://www.espncricinfo.com/cricketers/tom-cooper-219885,c van Lingen b Smit,6,6,1,0,100.00
+Netherlands Vs Namibia,Namibia,5,Colin Ackermann,https://www.espncricinfo.com/cricketers/colin-ackermann-379774,c Erasmus b Smit,0,2,0,0,0.00
+Netherlands Vs Namibia,Namibia,6,Scott Edwards (c)†,https://www.espncricinfo.com/cricketers/scott-edwards-1127317,c Loftie-Eaton b Frylinck,1,5,0,0,20.00
+Netherlands Vs Namibia,Namibia,7,Tim Pringle,https://www.espncricinfo.com/cricketers/tim-pringle-1193548,not out,8,9,0,0,88.88
+Zimbabwe Vs Ireland,Zimbabwe,1,Regis Chakabva †,https://www.espncricinfo.com/cricketers/regis-chakabva-293831,c †Tucker b Little,0,2,0,0,0.00
+Zimbabwe Vs Ireland,Zimbabwe,2,Craig Ervine (c),https://www.espncricinfo.com/cricketers/craig-ervine-55412,st †Tucker b Simi Singh,9,12,1,0,75.00
+Zimbabwe Vs Ireland,Zimbabwe,3,Wessly Madhevere,https://www.espncricinfo.com/cricketers/wessly-madhevere-938959,c Delany b Little,22,19,4,0,115.78
+Zimbabwe Vs Ireland,Zimbabwe,4,Sean Williams,https://www.espncricinfo.com/cricketers/sean-williams-55870,c Tector b Simi Singh,12,11,0,1,109.09
+Zimbabwe Vs Ireland,Zimbabwe,5,Sikandar Raza,https://www.espncricinfo.com/cricketers/sikandar-raza-299572,b Adair,82,48,5,5,170.83
+Zimbabwe Vs Ireland,Zimbabwe,6,Milton Shumba,https://www.espncricinfo.com/cricketers/milton-shumba-951781,c Little b Adair,16,14,1,0,114.28
+Zimbabwe Vs Ireland,Zimbabwe,7,Ryan Burl,https://www.espncricinfo.com/cricketers/ryan-burl-495964,c Adair b Little,1,4,0,0,25.00
+Zimbabwe Vs Ireland,Zimbabwe,8,Luke Jongwe,https://www.espncricinfo.com/cricketers/luke-jongwe-541224,not out,20,10,3,0,200.00
+Zimbabwe Vs Ireland,Ireland,1,Paul Stirling,https://www.espncricinfo.com/cricketers/paul-stirling-303427,b Ngarava,0,2,0,0,0.00
+Zimbabwe Vs Ireland,Ireland,2,Andy Balbirnie (c),https://www.espncricinfo.com/cricketers/andy-balbirnie-303423,c Ervine b Muzarabani,3,4,0,0,75.00
+Zimbabwe Vs Ireland,Ireland,3,Lorcan Tucker †,https://www.espncricinfo.com/cricketers/lorcan-tucker-928057,b Ngarava,11,11,2,0,100.00
+Zimbabwe Vs Ireland,Ireland,4,Harry Tector,https://www.espncricinfo.com/cricketers/harry-tector-961407,c Ervine b Muzarabani,1,4,0,0,25.00
+Zimbabwe Vs Ireland,Ireland,5,Curtis Campher,https://www.espncricinfo.com/cricketers/curtis-campher-595921,b Williams,27,22,1,0,122.72
+Zimbabwe Vs Ireland,Ireland,6,George Dockrell,https://www.espncricinfo.com/cricketers/george-dockrell-348034,b Sikandar Raza,24,20,3,0,120.00
+Zimbabwe Vs Ireland,Ireland,7,Gareth Delany,https://www.espncricinfo.com/cricketers/gareth-delany-1099379,c Shumba b Chatara,24,20,1,1,120.00
+Zimbabwe Vs Ireland,Ireland,8,Mark Adair,https://www.espncricinfo.com/cricketers/mark-adair-526441,c Sikandar Raza b Muzarabani,9,10,0,1,90.00
+Zimbabwe Vs Ireland,Ireland,9,Simi Singh,https://www.espncricinfo.com/cricketers/simi-singh-1005257,b Chatara,0,1,0,0,0.00
+Zimbabwe Vs Ireland,Ireland,10,Barry McCarthy,https://www.espncricinfo.com/cricketers/barry-mccarthy-348059,not out,22,16,1,2,137.50
+Zimbabwe Vs Ireland,Ireland,11,Josh Little,https://www.espncricinfo.com/cricketers/josh-little-928067,not out,7,11,1,0,63.63
+West Indies Vs Scotland,West Indies,1,George Munsey,https://www.espncricinfo.com/cricketers/george-munsey-671805,not out,66,53,9,0,124.52
+West Indies Vs Scotland,West Indies,2,Michael Jones,https://www.espncricinfo.com/cricketers/michael-jones-1093091,b Holder,20,17,3,0,117.64
+West Indies Vs Scotland,West Indies,3,Matthew Cross †,https://www.espncricinfo.com/cricketers/matthew-cross-417268,c Brooks b Holder,3,5,0,0,60.00
+West Indies Vs Scotland,West Indies,4,Richie Berrington (c),https://www.espncricinfo.com/cricketers/richie-berrington-25490,c Mayers b Joseph,16,14,0,1,114.28
+West Indies Vs Scotland,West Indies,5,Calum MacLeod,https://www.espncricinfo.com/cricketers/calum-macleod-232435,c King b Smith,23,14,4,0,164.28
+West Indies Vs Scotland,West Indies,6,Michael Leask,https://www.espncricinfo.com/cricketers/michael-leask-414966,b Joseph,4,6,0,0,66.66
+West Indies Vs Scotland,West Indies,7,Chris Greaves,https://www.espncricinfo.com/cricketers/chris-greaves-873199,not out,16,11,2,0,145.45
+West Indies Vs Scotland,Scotland,1,Kyle Mayers,https://www.espncricinfo.com/cricketers/kyle-mayers-348056,c Munsey b Davey,20,13,3,1,153.84
+West Indies Vs Scotland,Scotland,2,Evin Lewis,https://www.espncricinfo.com/cricketers/evin-lewis-431901,c Jones b Wheal,14,13,1,1,107.69
+West Indies Vs Scotland,Scotland,3,Brandon King,https://www.espncricinfo.com/cricketers/brandon-king-670035,b Watt,17,15,3,0,113.33
+West Indies Vs Scotland,Scotland,4,Nicholas Pooran (c)†,https://www.espncricinfo.com/cricketers/nicholas-pooran-604302,b Leask,5,9,0,0,55.55
+West Indies Vs Scotland,Scotland,5,Shamarh Brooks,https://www.espncricinfo.com/cricketers/shamarh-brooks-230555,c Leask b Wheal,4,9,0,0,44.44
+West Indies Vs Scotland,Scotland,6,Rovman Powell,https://www.espncricinfo.com/cricketers/rovman-powell-820351,c MacLeod b Leask,5,6,0,0,83.33
+West Indies Vs Scotland,Scotland,7,Jason Holder,https://www.espncricinfo.com/cricketers/jason-holder-391485,c Greaves b Sharif,38,33,4,1,115.15
+West Indies Vs Scotland,Scotland,8,Akeal Hosein,https://www.espncricinfo.com/cricketers/akeal-hosein-530812,run out (†Cross/Leask),1,1,0,0,100.00
+West Indies Vs Scotland,Scotland,9,Alzarri Joseph,https://www.espncricinfo.com/cricketers/alzarri-joseph-670031,c †Cross b Watt,0,1,0,0,0.00
+West Indies Vs Scotland,Scotland,10,Odean Smith,https://www.espncricinfo.com/cricketers/odean-smith-820691,c Greaves b Watt,5,8,0,0,62.50
+West Indies Vs Scotland,Scotland,11,Obed McCoy,https://www.espncricinfo.com/cricketers/obed-mccoy-906783,not out,2,3,0,0,66.66
+U.A.E. Vs Netherlands,U.A.E.,1,Chirag Suri,https://www.espncricinfo.com/cricketers/chirag-suri-534734,c †Edwards b van der Merwe,12,20,1,0,60.00
+U.A.E. Vs Netherlands,U.A.E.,2,Muhammad Waseem,https://www.espncricinfo.com/cricketers/muhammad-waseem-1241277,c Pringle b Klaassen,41,47,1,2,87.23
+U.A.E. Vs Netherlands,U.A.E.,3,Kashif Daud,https://www.espncricinfo.com/cricketers/kashif-daud-229225,b Pringle,15,14,0,1,107.14
+U.A.E. Vs Netherlands,U.A.E.,4,Vriitya Aravind †,https://www.espncricinfo.com/cricketers/vriitya-aravind-1178586,c Klaassen b de Leede,18,21,0,0,85.71
+U.A.E. Vs Netherlands,U.A.E.,5,Zawar Farid,https://www.espncricinfo.com/cricketers/zawar-farid-1196500,run out (Ackermann/†Edwards),2,4,0,0,50.00
+U.A.E. Vs Netherlands,U.A.E.,6,Basil Hameed,https://www.espncricinfo.com/cricketers/basil-hameed-1209110,c van der Merwe b de Leede,4,4,1,0,100.00
+U.A.E. Vs Netherlands,U.A.E.,7,CP Rizwan (c),https://www.espncricinfo.com/cricketers/cp-rizwan-474760,b de Leede,1,2,0,0,50.00
+U.A.E. Vs Netherlands,U.A.E.,8,Aayan Afzal Khan,https://www.espncricinfo.com/cricketers/aayan-afzal-khan-1241265,c Cooper b Klaassen,5,7,0,0,71.42
+U.A.E. Vs Netherlands,U.A.E.,9,Karthik Meiyappan,https://www.espncricinfo.com/cricketers/karthik-meiyappan-1058987,not out,0,0,0,0,-
+U.A.E. Vs Netherlands,U.A.E.,10,Junaid Siddique,https://www.espncricinfo.com/cricketers/junaid-siddique-1203754,not out,0,1,0,0,0.00
+U.A.E. Vs Netherlands,Netherlands,1,Vikramjit Singh,https://www.espncricinfo.com/cricketers/vikramjit-singh-1153767,b Basil Hameed,10,7,2,0,142.85
+U.A.E. Vs Netherlands,Netherlands,2,Max O'Dowd,https://www.espncricinfo.com/cricketers/max-o-dowd-643197,b Junaid Siddique,23,18,3,1,127.77
+U.A.E. Vs Netherlands,Netherlands,3,Bas de Leede,https://www.espncricinfo.com/cricketers/bas-de-leede-1036191,c Rizwan b Meiyappan,14,18,1,0,77.77
+U.A.E. Vs Netherlands,Netherlands,4,Colin Ackermann,https://www.espncricinfo.com/cricketers/colin-ackermann-379774,c Junaid Siddique b Aayan Afzal Khan,17,19,1,0,89.47
+U.A.E. Vs Netherlands,Netherlands,5,Tom Cooper,https://www.espncricinfo.com/cricketers/tom-cooper-219885,lbw b Junaid Siddique,8,16,0,0,50.00
+U.A.E. Vs Netherlands,Netherlands,6,Scott Edwards (c)†,https://www.espncricinfo.com/cricketers/scott-edwards-1127317,not out,16,19,0,0,84.21
+U.A.E. Vs Netherlands,Netherlands,7,Roelof van der Merwe,https://www.espncricinfo.com/cricketers/roelof-van-der-merwe-47850,b Junaid Siddique,0,2,0,0,0.00
+U.A.E. Vs Netherlands,Netherlands,8,Tim Pringle,https://www.espncricinfo.com/cricketers/tim-pringle-1193548,b Zahoor Khan,15,16,0,0,93.75
+U.A.E. Vs Netherlands,Netherlands,9,Logan van Beek,https://www.espncricinfo.com/cricketers/logan-van-beek-440522,not out,4,4,0,0,100.00
+Sri Lanka Vs Namibia,Sri Lanka,1,Michael van Lingen,https://www.espncricinfo.com/cricketers/michael-van-lingen-833777,c Pramod Madushan b Chameera,3,6,0,0,50.00
+Sri Lanka Vs Namibia,Sri Lanka,2,Divan la Cock,https://www.espncricinfo.com/cricketers/divan-la-cock-1178065,c Shanaka b Pramod Madushan,9,9,1,0,100.00
+Sri Lanka Vs Namibia,Sri Lanka,3,Jan Nicol Loftie-Eaton,https://www.espncricinfo.com/cricketers/jan-nicol-loftie-eaton-1071473,c †Mendis b Karunaratne,20,12,1,2,166.66
+Sri Lanka Vs Namibia,Sri Lanka,4,Stephan Baard,https://www.espncricinfo.com/cricketers/stephan-baard-437927,c de Silva b Pramod Madushan,26,24,2,0,108.33
+Sri Lanka Vs Namibia,Sri Lanka,5,Gerhard Erasmus (c),https://www.espncricinfo.com/cricketers/gerhard-erasmus-519070,c Gunathilaka b Hasaranga,20,24,0,0,83.33
+Sri Lanka Vs Namibia,Sri Lanka,6,Jan Frylinck,https://www.espncricinfo.com/cricketers/jan-frylinck-482478,run out (Gunathilaka/†Mendis),44,28,4,0,157.14
+Sri Lanka Vs Namibia,Sri Lanka,7,David Wiese,https://www.espncricinfo.com/cricketers/david-wiese-221140,c †Mendis b Theekshana,0,1,0,0,0.00
+Sri Lanka Vs Namibia,Sri Lanka,8,JJ Smit,https://www.espncricinfo.com/cricketers/jj-smit-553821,not out,31,16,2,2,193.75
+Sri Lanka Vs Namibia,Namibia,1,Pathum Nissanka,https://www.espncricinfo.com/cricketers/pathum-nissanka-1028655,c Smit b Shikongo,9,10,1,0,90.00
+Sri Lanka Vs Namibia,Namibia,2,Kusal Mendis †,https://www.espncricinfo.com/cricketers/kusal-mendis-629074,c †Green b Wiese,6,6,0,0,100.00
+Sri Lanka Vs Namibia,Namibia,3,Dhananjaya de Silva,https://www.espncricinfo.com/cricketers/dhananjaya-de-silva-465793,c Shikongo b Frylinck,12,11,1,0,109.09
+Sri Lanka Vs Namibia,Namibia,4,Danushka Gunathilaka,https://www.espncricinfo.com/cricketers/danushka-gunathilaka-345821,c †Green b Shikongo,0,1,0,0,0.00
+Sri Lanka Vs Namibia,Namibia,5,Bhanuka Rajapaksa,https://www.espncricinfo.com/cricketers/bhanuka-rajapaksa-342619,c la Cock b Scholtz,20,21,2,0,95.23
+Sri Lanka Vs Namibia,Namibia,6,Dasun Shanaka (c),https://www.espncricinfo.com/cricketers/dasun-shanaka-437316,c †Green b Frylinck,29,23,2,1,126.08
+Sri Lanka Vs Namibia,Namibia,7,Wanindu Hasaranga,https://www.espncricinfo.com/cricketers/wanindu-hasaranga-784379,c Loftie-Eaton b Scholtz,4,8,0,0,50.00
+Sri Lanka Vs Namibia,Namibia,8,Chamika Karunaratne,https://www.espncricinfo.com/cricketers/chamika-karunaratne-623695,c Baard b Smit,5,8,0,0,62.50
+Sri Lanka Vs Namibia,Namibia,9,Pramod Madushan,https://www.espncricinfo.com/cricketers/pramod-madushan-826689,run out (van Lingen/†Green),0,0,0,0,-
+Sri Lanka Vs Namibia,Namibia,10,Dushmantha Chameera,https://www.espncricinfo.com/cricketers/dushmantha-chameera-552152,c Erasmus b Wiese,8,15,0,0,53.33
+Sri Lanka Vs Namibia,Namibia,11,Maheesh Theekshana,https://www.espncricinfo.com/cricketers/maheesh-theekshana-1138316,not out,11,11,0,1,100.00

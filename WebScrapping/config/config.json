@@ -1,0 +1,17 @@
+{
+    "base_url": "https://www.espncricinfo.com",
+    "t20_url": "https://www.espncricinfo.com/records/tournament/team-match-results/icc-men-s-t20-world-cup-2022-23-14450",
+
+    "espn_t20_wc_2022_results_csv_file_path":"E://Work//Personal//Codes//Python Codes//Cricket Data Analytics Project//archive//csv//t20_wc_match_results.csv",
+    "batting_summary_csv_file_path":"E://Work//Personal//Codes//Python Codes//Cricket Data Analytics Project//archive//csv//t20_wc_batting_summary.csv",
+    "bowling_summary_csv_file_path":"E://Work//Personal//Codes//Python Codes//Cricket Data Analytics Project//archive//csv//t20_wc_bowling_summary.csv",
+    "player_details_csv_file_path":"E://Work//Personal//Codes//Python Codes//Cricket Data Analytics Project//archive//csv//t20_wc_player_info.csv",
+    "player_details_with_imageurl_csv_file_path":"E://Work//Personal//Codes//Python Codes//Cricket Data Analytics Project//archive//csv//t20_wc_player_info_with_imageurl.csv",
+
+    "espn_t20_wc_2022_results_json_filepath": "E://Work//Personal//Codes//Python Codes//Cricket Data Analytics Project//archive//json//t20_wc_match_results.json",
+    "batting_summary_json_file_path": "E://Work//Personal//Codes//Python Codes//Cricket Data Analytics Project//archive//json//t20_wc_batting_summary.json",
+    "bowling_summary_json_file_path":"E://Work//Personal//Codes//Python Codes//Cricket Data Analytics Project//archive//json//t20_wc_bowling_summary.json",
+    "player_details_json_file_path":"E://Work//Personal//Codes//Python Codes//Cricket Data Analytics Project//archive//json//t20_wc_player_info.json",
+    "player_details_with_imageurl_json_file_path":"E://Work//Personal//Codes//Python Codes//Cricket Data Analytics Project//archive//json//t20_wc_player_info_with_imageurl.json",
+    "scorecard_urls_json_file_path": "E://Work//Personal//Codes//Python Codes//Cricket Data Analytics Project//archive//json//scorecard_urls.json"
+}
