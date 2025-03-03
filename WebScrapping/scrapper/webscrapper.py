@@ -39,8 +39,8 @@ def fetch_match_data(url):
 
 # Extract player details from match scorecard
 def get_player_details(player_url, name):
-    response = requests.get(player_url)
-    if response.status_code == 200 or response.status_code == 403:
+    response = requests.get(player_url, headers=headers)
+    if response.status_code == 200:
         soup = BeautifulSoup(response.content, 'html.parser')
 
         player_info = {
@@ -63,7 +63,6 @@ def get_player_details(player_url, name):
             for div in player_details_div.find_all('div'): # type: ignore
                 label = div.find('p', class_='ds-text-tight-m ds-font-regular ds-uppercase ds-text-typo-mid3')
                 value = div.find('span', class_='ds-text-title-s ds-font-bold ds-text-typo')
-                print(value)
 
                 if label and value:
                     label_text = label.get_text(strip=True)
@@ -102,8 +101,8 @@ def get_player_details(player_url, name):
 
 # Extract player details with imageurl from match scorecard
 def get_player_details_with_imageurl(player_url, name):
-    response = requests.get(player_url)
-    if response.status_code == 200 or response.status_code == 403:
+    response = requests.get(player_url, headers=headers)
+    if response.status_code == 200:
         soup = BeautifulSoup(response.content, 'html.parser')
 
         player_info = {
