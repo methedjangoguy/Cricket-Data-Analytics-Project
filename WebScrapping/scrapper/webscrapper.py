@@ -40,7 +40,7 @@ def fetch_match_data(url):
 # Extract player details from match scorecard
 def get_player_details(player_url, name):
     response = requests.get(player_url)
-    if response.status_code == 200:
+    if response.status_code == 200 or response.status_code == 403:
         soup = BeautifulSoup(response.content, 'html.parser')
 
         player_info = {
@@ -60,9 +60,10 @@ def get_player_details(player_url, name):
         player_details_div = soup.find('div', class_='ds-grid lg:ds-grid-cols-3 ds-grid-cols-2 ds-gap-4 ds-mb-8')
 
         if player_details_div:
-            for div in player_details_div.find_all('div'):
+            for div in player_details_div.find_all('div'): # type: ignore
                 label = div.find('p', class_='ds-text-tight-m ds-font-regular ds-uppercase ds-text-typo-mid3')
                 value = div.find('span', class_='ds-text-title-s ds-font-bold ds-text-typo')
+                print(value)
 
                 if label and value:
                     label_text = label.get_text(strip=True)
@@ -89,20 +90,20 @@ def get_player_details(player_url, name):
         # Extract first team name from the TEAMS section
         teams_section = soup.find('div', class_='ds-grid lg:ds-grid-cols-3 ds-grid-cols-2 ds-gap-y-4')
         if teams_section:
-            first_team = teams_section.find('span', class_='ds-text-title-s ds-font-bold ds-text-typo ds-underline ds-decoration-ui-stroke hover:ds-text-typo-primary hover:ds-decoration-ui-stroke-primary ds-block')
+            first_team = teams_section.find('span', class_='ds-text-title-s ds-font-bold ds-text-typo ds-underline ds-decoration-ui-stroke hover:ds-text-typo-primary hover:ds-decoration-ui-stroke-primary ds-block') # type: ignore
             if first_team:
                 player_info['team'] = first_team.get_text(strip=True)  # Store only the first team
 
         _scrape_logger.info(f"Player {player_info['name']} details fetched successfully!!")
         return player_info
     else:
-        _scrape_logger.error(f"Failed to retrieve data for {player_url}")
+        _scrape_logger.error(f"Failed to retrieve playr without image data for {name}")
         return None
 
 # Extract player details with imageurl from match scorecard
 def get_player_details_with_imageurl(player_url, name):
     response = requests.get(player_url)
-    if response.status_code == 200:
+    if response.status_code == 200 or response.status_code == 403:
         soup = BeautifulSoup(response.content, 'html.parser')
 
         player_info = {
@@ -160,13 +161,13 @@ def get_player_details_with_imageurl(player_url, name):
         image_div = soup.find('div', class_='ds-ml-auto ds-w-36 ds-h-36')
         if image_div:
             img_tag = image_div.find('img')
-            if img_tag and 'src' in img_tag.attrs:
-                player_info['playerImageUrl'] = img_tag['src']
+            if img_tag and 'src' in img_tag.attrs: # type: ignore
+                player_info['playerImageUrl'] = img_tag['src'] # type: ignore
 
         _scrape_logger.info(f"Player {player_info['name']} details fetched successfully!!")
         return player_info
     else:
-        _scrape_logger.error(f"Failed to retrieve data for {player_url}")
+        _scrape_logger.error(f"Failed to retrieve playr with image data for {name}")
         return None
 
 # Extract html data
@@ -187,7 +188,7 @@ def parse_html(html):
         bowling_summary = []  # Will hold the final array
 
         # Extract data rows from the table
-        for row in table.find("tbody").find_all("tr"):
+        for row in table.find("tbody").find_all("tr"): # type: ignore
             cells = row.find_all("td")
             row_data = [cell.text.strip() for cell in cells]
 
